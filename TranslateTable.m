@@ -3812,6 +3812,12 @@ NSDictionary *CommonTable(void)
         @"SUBTITLES" : @"字幕",
         @"QUICK ACCESS TO GTOK" : @"快速打开 GTok",
         @"BACKUP" : @"备份",
+        @"Skip Musor Drop ads" : @"跳过 Musor 插播广告",
+        @"Detects the spliced-in clip by its audio and seeks past it" : @"通过检测插入片段的音频识别，并自动跳过该部分",
+        @"Ad analysis on Wi-Fi only" : @"仅在 Wi-Fi 下进行广告分析",
+        @"Videos are downloaded for analysis on Wi-Fi only" : @"仅在 Wi-Fi 下下载视频进行分析",
+        @"TikTok hasn't given GTok the chat list yet. Open your DMs once: after the list loads, GTok will pull streaks for the chats itself." : @"TikTok 尚未提供聊天列表给 GTok。\n打开一次私信页面，列表加载完成后，GTok 会自动获取聊天连续互动记录",
+        //@"TikTok hasn't given GTok the chat list yet. Open your DMs once: after the list loads, GTok will pull streaks for the chats itself." : @"TikTok 尚未提供聊天列表给 GTok。打开一次私信页面，列表加载完成后，GTok 会自动获取聊天连续互动记录",
         
         
     };
