@@ -3981,7 +3981,11 @@ NSDictionary *CommonTable(void)
         @"Create video from photos" : @"将照片制作成视频",
         @"Save Current Photo" : @"保存当前照片",
         @"Server Connection Error" : @"服务器连接错误",
-        
+        @"Glowing Neon Accent":
+            @"发光霓虹强调色",
+
+@"Filled White Circle":
+            @"实心白色圆圈",
         
         
     };
