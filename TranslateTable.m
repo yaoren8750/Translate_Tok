@@ -2766,7 +2766,7 @@ NSDictionary *CommonTable(void)
         @"SETTINGS BUTTON" : @"设置按钮",
         @"PROFILE INFO" : @"个人主页信息",
         @"FAKE COUNTS" : @"模拟互动数据",
-        @"Following" : @"正在关注",
+
         @"Followers" : @"粉丝",
         @"e.g. 500" : @"例如 500",
         @"e.g. 100000" : @"例如 100000",
@@ -3823,7 +3823,7 @@ NSDictionary *CommonTable(void)
 @"Enable all premium features" : @"启用全部高级功能",
 @"Main Screen Settings" : @"主界面设置",
 @"Control feed and story features" : @"控制动态和故事功能",
-@"Profile Settings" : @"个人资料设置",
+
 @"Profile options, fake verified, and counts" : @"个人资料选项、伪认证和数量显示",
 @"Confirm Settings" : @"确认设置",
 @"Like and follow confirmation alerts" : @"点赞和关注确认提示",
