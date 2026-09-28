@@ -418,10 +418,10 @@ NSDictionary *CommonTable(void)
         @"Stop Playback":
             @"停止播放",
 
-        //@"Stop video playback automatically":
-            //@"自动停止视频播放",
-
-        
+ @"New Version Available : 1.76\n\nPlease update VibeTok to enjoy the latest features and fixes. If you choose to cancel, please don't post on Reddit saying \n'DeNsor is not helping me'. 🙏" : @"发现新版本：1.76\n\n请更新 VibeTok 以享受最新功能和修复。如果你选择取消，请不要在 Reddit 上发布“DeNsor 没有帮助我”。🙏";
+        @"Update" : @"更新",
+@"Upload voice message as video" : @"将语音消息上传为视频",
+@"Upload vid as voice in comments" : @"在评论中将视频上传为语音",
 
         @"Show Progress Bar":
             @"显示进度条",
