@@ -3935,6 +3935,8 @@ NSDictionary *CommonTable(void)
 
         @"Changing the layout position requires restarting the app. Do you want to close the app to apply changes now?" : @"更改布局位置需要重新启动应用。要立即关闭应用并应用更改吗？",
 
+        @"Changing the style requires restarting the app. Do you want to close the app to apply changes now?" : @"更改样式需要重新启动应用。要立即关闭应用并应用更改吗？",
+        
         @"Close & Apply" : @"关闭并应用",
         @"Arrow with Line (Outline)" : @"线框箭头",
         @"TikTok Follow Badge Pink" : @"TikTok 粉色关注标记",
