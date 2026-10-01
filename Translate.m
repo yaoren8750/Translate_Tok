@@ -162,6 +162,64 @@ static NSString *TranslateDynamic(NSString *text)
     [clean stringByTrimmingCharactersInSet:
      [NSCharacterSet whitespaceAndNewlineCharacterSet]];
     
+    // =========================================================
+    // GTok 删除转发动态文本
+    // =========================================================
+
+    if ([clean hasPrefix:@"Removing reposts"])
+    {
+        return @"正在移除转发";
+    }
+
+    if ([clean hasPrefix:@"Loading the list of reposts"])
+    {
+        return @"正在加载转发列表";
+    }
+
+    if ([clean hasPrefix:@"Removed:"])
+    {
+        NSString *value =
+            [clean substringFromIndex:
+             [@"Removed:" length]];
+
+        value =
+            [value stringByTrimmingCharactersInSet:
+             [NSCharacterSet whitespaceAndNewlineCharacterSet]];
+
+        return [NSString stringWithFormat:
+                @"已移除：%@",
+                value];
+    }
+
+    if ([clean hasPrefix:@"queued:"])
+    {
+        NSString *value =
+            [clean substringFromIndex:
+             [@"queued:" length]];
+
+        value =
+            [value stringByTrimmingCharactersInSet:
+             [NSCharacterSet whitespaceAndNewlineCharacterSet]];
+
+        return [NSString stringWithFormat:
+                @"排队中：%@",
+                value];
+    }
+
+    if ([clean hasPrefix:@"Still on the profile:"])
+    {
+        NSString *value =
+            [clean substringFromIndex:
+             [@"Still on the profile:" length]];
+
+        value =
+            [value stringByTrimmingCharactersInSet:
+             [NSCharacterSet whitespaceAndNewlineCharacterSet]];
+
+        return [NSString stringWithFormat:
+                @"仍在个人资料中：%@",
+                value];
+    }
     
 #pragma mark - 透明度动态文本
 

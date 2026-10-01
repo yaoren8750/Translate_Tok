@@ -3968,8 +3968,17 @@ NSDictionary *CommonTable(void)
         @"A pill under the Dynamic Island — visible in screenshots · My badge" : @"灵动岛下方的胶囊徽章——截图中可见 · 我的徽章",
         @"My badge" : @"我的徽章",
         @"Edit" : @"编辑",
-        
-        
+        @"Removing reposts&" : @"正在移除转发&",
+        @"Loading the list of reposts&" : @"正在加载转发列表&",
+        @"There are no reposts on your profile." : @"你的个人资料中没有转发。",
+        @"Stop" : @"停止",
+        @"On light" : @"浅色模式",
+        @"A pill under the Dynamic Island — visible in screenshots · Off" : @"灵动岛下方的胶囊徽章——截图中可见 · 关闭",
+        @"No camera access" : @"无法访问相机",
+        @"Allow TikTok to use the camera in Settings to scan a QR code. An image with a QR code can be picked without the camera." : @"请在设置中允许 TikTok 使用相机，以扫描二维码。没有相机权限也可以选择包含二维码的图片。",
+        @"Gallery" : @"图库",
+        @"Open Settings" : @"打开设置",
+        @"Camera unavailable" : @"相机不可用",
         
         
         
