@@ -2833,8 +2833,9 @@ NSDictionary *CommonTable(void)
         @"Hide the bar or any of its buttons" : @"隐藏底部导航栏或按钮",
         @"Hide Bottom Bar" : @"隐藏底部导航栏",
         @"Hides the bottom navigation bar. Shake the device to reopen these settings." : @"隐藏底部导航栏。摇动设备可重新打开设置。",
-        
-        
+        @"Mute Button" : @"静音按钮",
+        @"Adds a speaker button on videos. Muting stays on for every video until you tap it again." : @"在视频上添加扬声器按钮。静音会一直保持开启，直到再次点击该按钮。",
+        @"Saved to Photos" : @"已保存到照片",
         @"Hide all ads from the app" : @"隐藏应用内所有广告",
         @"Hide any video whose description or creator name contains one of your words" : @"隐藏视频描述或创作者名称中包含指定关键词的视频",
         @"Hide live streams from the feed" : @"隐藏推荐页中的直播",
@@ -2926,7 +2927,7 @@ NSDictionary *CommonTable(void)
         @"TB,R,D,N,GisVisible" : @"TB,R,D,N,GisVisible",
         @"The app will close now. Open it again to apply the changes." : @"应用即将关闭，请重新打开以应用更改",
         @"Their videos will stop appearing" : @"其视频将不再显示",
-        @"TikTok 46.5" : @"TikTok 46.5",
+        @"MUTE" : @"静音",
         
         @"Tweaks for TikTok" : @"TikTok 增强功能",
         @"Unblock All" : @"解除全部屏蔽",
@@ -3832,6 +3833,145 @@ NSDictionary *CommonTable(void)
         @"Ad analysis on Wi-Fi only" : @"仅在 Wi-Fi 下进行广告分析",
         @"Videos are downloaded for analysis on Wi-Fi only" : @"仅在 Wi-Fi 下下载视频进行分析",
         @"TikTok hasn't given GTok the chat list yet.\n\nOpen your DMs once: after the list loads, GTok will pull streaks for the chats itself." : @"TikTok 尚未提供聊天列表给 GTok。\n\n打开一次私信页面，列表加载完成后，GTok 会自动获取聊天连续互动记录。",
+        
+        @"Download button on stories" : @"动态下载按钮",
+        @"A button on the right of every story saves it to Photos — in both the regular and the anonymous viewer" : @"每个动态右侧的按钮可将其保存到照片——普通查看和匿名查看均支持",
+
+        @"Who gets the streak" : @"谁接收连续互动",
+        @"Streak sticker" : @"连续互动贴纸",
+        @"Default nudge 👆" : @"默认提醒 👆",
+
+        @"VLESS CONNECT" : @"VLESS 连接",
+        @"Connect through a VLESS subscription" : @"通过 VLESS 订阅连接",
+
+        @"Delete all my reposts" : @"删除我的所有转发",
+        @"Removes every repost from the Reposts tab of your profile" : @"从个人资料的转发标签页中移除所有转发",
+
+        @"Delete all your reposts?" : @"删除所有转发？",
+        @"GTok will remove every repost from the Reposts tab of your profile one by one — like the “Undo repost” button, but for all of them at once. They can't be restored." : @"GTok 将逐个移除你个人资料转发标签页中的所有转发——类似“取消转发”按钮，但一次性处理全部内容。删除后无法恢复。",
+
+        @"TikTok will go through the selected VLESS server. Your VPN provider hands out the subscription link; a standalone vless:// link works too." : @"TikTok 将通过选定的 VLESS 服务器连接。你的 VPN 服务商会提供订阅链接；单独的 vless:// 链接同样有效。",
+
+        @"VPN BY SUBSCRIPTION" : @"订阅 VPN",
+        @"Add a subscription" : @"添加订阅",
+        @"Paste the subscription link from your VPN provider — the servers appear here and TikTok can go through any of them." : @"粘贴 VPN 服务商提供的订阅链接——服务器会显示在这里，TikTok 可通过其中任意服务器连接。",
+
+        @"OPTIONS" : @"选项",
+        @"All traffic through VPN" : @"所有流量通过 VPN",
+        @"Routes the video loader and everything that talks through raw sockets into the tunnel too" : @"将视频加载器以及所有通过原始套接字通信的流量也导入隧道",
+        @"Block UDP" : @"阻止 UDP",
+        @"QUIC won't bypass the tunnel — TikTok falls back to TCP on its own" : @"QUIC 不会绕过隧道——TikTok 会自动回退到 TCP",
+        @"Hide server addresses" : @"隐藏服务器地址",
+        @"Don't show host:port in the server list" : @"不在服务器列表中显示 host:port",
+
+        @"Without “All traffic through VPN” only the app's HTTP requests go through the tunnel and videos load directly. DNS queries always go through the system resolver, and TikTok's in-app browser lives in a separate process and doesn't see the tunnel." : @"未启用“所有流量通过 VPN”时，只有应用的 HTTP 请求通过隧道，视频会直接加载。DNS 查询始终通过系统解析器，TikTok 内置浏览器运行在独立进程中，无法使用该隧道。",
+
+        @"VLESS diagnostics" : @"VLESS 诊断",
+        @"New subscription" : @"新建订阅",
+        @"Paste from the clipboard" : @"从剪贴板粘贴",
+        @"Scan a QR code" : @"扫描二维码",
+        @"Paste the link your VPN provider gave you: a plain https:// one, or one from an app — happ://, v2raytun://, sing-box://. A standalone vless:// link works too. The servers load automatically. The link is an access key — do not pass it on to anyone." : @"粘贴 VPN 服务商提供的链接：普通 https:// 链接，或来自应用的 happ://、v2raytun://、sing-box:// 链接均可。单独的 vless:// 链接同样有效。服务器会自动加载。该链接是访问密钥，请勿分享给他人。",
+
+        @"NAME" : @"名称",
+        @"Optional" : @"可选",
+        @"Couldn't connect" : @"无法连接",
+        @"Pick a server in the list first." : @"请先从列表中选择服务器。",
+
+        @"DEFAULT GESTURES" : @"默认手势",
+        @"CHAT QUICK-REPLY PANEL" : @"聊天快捷回复面板",
+        @"FAVORITE STICKERS" : @"收藏贴纸",
+        @"Your favorites are empty — save a sticker in any TikTok chat and it will show up here." : @"你的收藏为空——在任意 TikTok 聊天中保存贴纸后，它会显示在这里。",
+
+        @"PER CONTACT" : @"按联系人设置",
+
+        @"Your pick is sent instead of the default gesture — both by the automatic keeper and by “Send to all streaks”. Panel buttons come from TikTok's chat cache (the same set shown above the input field in a chat), stickers from your favorites in DMs. A single contact can get their own pick in “Who gets the streak”. If the pick can't be sent, GTok sends the default gesture so the streak doesn't expire." : @"你的选择会替代默认手势发送——无论是自动保持功能还是“发送到所有连续互动”。面板按钮来自 TikTok 聊天缓存（与聊天输入框上方显示的按钮相同），贴纸来自私信中的收藏贴纸。单个联系人可以在“谁接收连续互动”中设置专属选择。如果无法发送指定内容，GTok 会发送默认手势，以避免连续互动失效。",
+
+        @"Showing chats TikTok has streak data for. Open your inbox in TikTok and come back." : @"显示 TikTok 已保存连续互动数据的聊天。请在 TikTok 中打开收件箱后返回。",
+
+        @"GTok doesn't send the streak to switched-off chats — neither automatically nor via “Send to all”. Tap a contact to pick what exactly they get (a gesture, a panel button or a sticker). Names and avatars come from your inbox." : @"GTok 不会向已关闭连续互动的聊天发送内容——无论自动发送还是通过“发送到所有”。点击联系人可选择他们接收的内容（手势、面板按钮或贴纸）。名称和头像来自你的收件箱。",
+
+        @"Spoofs the region in every TikTok request: query parameters, PNS headers, time zone, SIM carrier, video upload parameters. The interface language stays the same. Fully applies after a restart." : @"伪装 TikTok 每个请求中的地区信息：查询参数、PNS 请求头、时区、SIM 运营商、视频上传参数。界面语言保持不变。重启后完全生效。",
+
+        @"PUBLISHING" : @"发布",
+
+        @"Region change log" : @"地区更改日志",
+
+        @"Uploads and publishing bypass the client region dispatcher. If an error persists, check the log: HTTP −1 means no server response was received. Spoofing does not change your IP address or the account region on the server; use VLESS CONNECT to change your IP." : @"上传和发布会绕过客户端地区调度器。如果错误仍然存在，请检查日志：HTTP −1 表示未收到服务器响应。伪装不会改变你的 IP 地址或服务器上的账号地区；请使用 VLESS CONNECT 更改 IP。",
+        @"Hold the handle on the right and drag a tab. Tap a row to rename it. A switched-off tab disappears; the rest are centered with equal spacing." : @"按住右侧手柄拖动标签页。点击列表项可重命名。关闭的标签页会隐藏，其余标签页会自动居中并保持等距排列。",
+        @"Reset restores TikTok's native order, names and all hidden tabs." : @"重置将恢复 TikTok 默认顺序、名称以及所有隐藏标签页。",
+
+        @"View stories anonymously (like on desktop)" : @"匿名查看动态（类似桌面端）",
+        @"Stories load through the public web API with no session — your account never asks for them" : @"动态通过公开 Web API 加载，无需登录会话——你的账号不会请求这些内容",
+
+        @"Badges" : @"徽章",
+        @"A pill under the Dynamic Island — visible in screenshots · GTok" : @"灵动岛下方的胶囊徽章——截图中可见 · GTok",
+
+        @"Feed buttons on the left" : @"信息流按钮置左",
+        @"Moves the avatar and action buttons to the left and the caption to the right" : @"将头像和操作按钮移至左侧，将描述文字移至右侧",
+        @"AS IT LOOKS IN A SCREENSHOT" : @"截图中的显示效果",
+
+        @"The badge sits exactly under the notch (226×34 pt): on screen the cutout itself covers it, while screenshots and screen recordings show it. Its size adapts to this iPhone's cutout." : @"徽章会精确位于刘海下方（226×34 pt）：在屏幕上会被挖孔区域遮挡，而截图和录屏中可见。大小会自动适配此 iPhone 的挖孔尺寸。",
+        @"Show the badge" : @"显示徽章",
+        @"A pill under the Dynamic Island or notch — visible only in screenshots and screen recordings" : @"灵动岛或刘海下方的胶囊徽章——仅在截图和录屏中可见",
+
+        @"Create your own badge" : @"创建自定义徽章",
+        @"Photos, text, layers, background — with a live preview" : @"照片、文字、图层、背景——支持实时预览",
+
+        @"Download a badge from a link" : @"通过链接下载徽章",
+        @"An image or a badge file — the extension doesn't matter" : @"图片或徽章文件——扩展名不重要",
+
+        @"BADGES" : @"徽章",
+        @"GTok Pink" : @"GTok 粉色",
+        @"Badge from a link" : @"从链接导入徽章",
+        @"A direct link to an image (PNG/JPEG) or to a badge file. The extension doesn't matter — what the link points to does." : @"图片（PNG/JPEG）或徽章文件的直接链接。扩展名不重要，链接指向的内容才重要。",
+
+        @"Preview" : @"预览",
+        @"On dark" : @"深色模式",
+        @"Drag, pinch and rotate the layer right here · the sliders below are for fine-tuning" : @"可在此处拖动、缩放和旋转图层 · 下方滑块用于精细调整",
+
+        @"LAYERS" : @"图层",
+        @"Photo" : @"照片",
+        @"Text" : @"文字",
+
+        @"IMPORT FROM A LINK" : @"从链接导入",
+        @"A link to an image adds it as a new layer. A link to a badge imports the whole badge with its layers. The extension doesn't matter — what the link points to does (PNG, JPEG, .ggbadge, .json)." : @"图片链接会作为新图层添加。徽章链接会导入完整徽章及其图层。扩展名不重要，链接指向的内容才重要（PNG、JPEG、.ggbadge、.json）。",
+
+        @"Paste" : @"粘贴",
+        @"Open a badge or image from Files" : @"从文件中打开徽章或图片",
+
+        @"LAYER" : @"图层",
+        @"Font size" : @"字体大小",
+        @"Tracking" : @"字距",
+        @"Outline" : @"描边",
+        @"Bold" : @"粗体",
+        @"Weight" : @"字重",
+        @"Rounded font" : @"圆润字体",
+        @"Text color" : @"文字颜色",
+        @"Outline color" : @"描边颜色",
+        @"Size" : @"大小",
+        @"Offset X" : @"X 轴偏移",
+        @"Offset Y" : @"Y 轴偏移",
+        @"Rotation" : @"旋转",
+        @"Center the layer" : @"居中图层",
+
+        @"BACKGROUND AND CANVAS" : @"背景与画布",
+        @"Transparent" : @"透明",
+        @"Gradient" : @"渐变",
+        @"Canvas corner radius" : @"画布圆角半径",
+
+        @"START FROM A READY BADGE" : @"从现成徽章开始",
+        @"A ready-made badge is added as its own layer — you can add text or your own photo on top." : @"现成徽章会作为独立图层添加——你可以在上方添加文字或自己的照片。",
+
+        @"Save and apply" : @"保存并应用",
+        @"Save only" : @"仅保存",
+        @"Share the badge" : @"分享徽章",
+        @"A pill under the Dynamic Island — visible in screenshots · My badge" : @"灵动岛下方的胶囊徽章——截图中可见 · 我的徽章",
+        @"My badge" : @"我的徽章",
+        @"Edit" : @"编辑",
+        
+        
+        
+        
         
                                     //Tiktok Fahd
         @"Enable Tweak" : @"启用插件",
