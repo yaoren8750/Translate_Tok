@@ -4013,6 +4013,10 @@ NSDictionary *CommonTable(void)
 
 @"until 2027年5月4日" : @"有效期至 2027年5月4日",
 @"Unsupported protocol" : @"不支持的协议",
+@"SERVERS" : @"服务器",
+@"This subscription's servers will disappear from the list. If one of them is on right now, the VPN will disconnect." : @"此订阅的服务器将从列表中消失。如果当前正在使用其中一台服务器，VPN 将断开连接。",
+@"Loading the server list…" : @"正在加载服务器列表…",
+@"Subscription" : @"订阅",
 
 
         
