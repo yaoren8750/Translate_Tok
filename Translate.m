@@ -967,7 +967,15 @@ if ([clean hasPrefix:@"Off:"])
         return @"下载";
     
    
-    }   /*
+    }
+    
+    // 🎬 0 Videos → 🎬 0 个动态
+    if ([clean hasPrefix:@"🎬 "] && [clean hasSuffix:@" Videos"])
+    {
+        NSString *count = [clean substringWithRange:NSMakeRange(3, clean.length - 3 - 7)];
+        return [NSString stringWithFormat:@"🎬 %@ 个动态", count];
+    }
+    /*
     ==========================
     GTok 动态文本
     ==========================
