@@ -4013,10 +4013,27 @@ NSDictionary *CommonTable(void)
 
 @"until 2027年5月4日" : @"有效期至 2027年5月4日",
 @"Unsupported protocol" : @"不支持的协议",
-@"SERVERS" : @"服务器",
-@"This subscription's servers will disappear from the list. If one of them is on right now, the VPN will disconnect." : @"此订阅的服务器将从列表中消失。如果当前正在使用其中一台服务器，VPN 将断开连接。",
-@"Loading the server list…" : @"正在加载服务器列表…",
-@"Subscription" : @"订阅",
+        @"SERVERS" : @"服务器",
+        @"This subscription's servers will disappear from the list. If one of them is on right now, the VPN will disconnect." : @"此订阅的服务器将从列表中移除。如果当前连接的是其中一个服务器，VPN 将断开连接。",
+        @"Loading the server list…" : @"正在加载服务器列表…",
+        @"Subscription" : @"订阅",
+        @"🔴 Doesn't Follow" : @"🔴 未关注",
+        @"Nickname badge" : @"昵称旁的徽章",
+        @"Nickname badges — every GTok user sees them" : @"昵称旁的徽章——所有 GTok 用户都能看到",
+        @"None yet" : @"暂无",
+        @"Get a badge" : @"获取徽章",
+        @"A custom badge or a GTok badge — forever" : @"自定义徽章或 GTok 徽章——永久有效",
+        @"Copy my UID" : @"复制我的 UID",
+        @"Everyone with GTok sees badges: in the feed, comments, profiles and DMs. Tap a badge to see who it is and how to get one." : @"所有安装 GTok 的用户都能看到徽章：在信息流、评论、个人资料和私信中。点击徽章即可查看它是什么以及如何获得。",
+        @"Support GCONNECT development" : @"支持 GCONNECT 开发",
+        @"This is how yours will look" : @"你的徽章会显示成这样",
+        @"GTok badge" : @"GTok 徽章",
+        @"The GCONNECT ghost next to your nickname — forever" : @"昵称旁的 GCONNECT 幽灵——永久有效",
+        @"Custom badge" : @"自定义徽章",
+        @"Your own image and your own tap text" : @"自定义图片和点击后显示的文字",
+        @"Get it in Telegram" : @"在 Telegram 中获取",
+        @"One-time payment · Telegram Stars right in the bot" : @"一次性付款 · 直接在机器人中使用 Telegram Stars",
+
 
 
         
