@@ -3582,7 +3582,7 @@ NSDictionary *CommonTable(void)
 @"No ads" : @"去除广告",
 @"Filters" : @"筛选器",
 @"Country filter" : @"国家/地区筛选",
-@"Remove from feed" : @"从信息流中移除",
+//@"Remove from feed" : @"从信息流中移除",
 @"Scrolling" : @"浏览",
 @"Ads inside videos" : @"视频内广告",
 @"Master switch for the country filter" : @"国家/地区筛选总开关",
