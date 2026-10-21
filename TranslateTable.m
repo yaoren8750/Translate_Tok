@@ -3664,7 +3664,7 @@ NSDictionary *CommonTable(void)
 @"Frame rate, resolution and effects aren't cut when the phone heats up" : @"手机发热时不降低帧率、分辨率或特效质量",
 @"TikTok lowers the frame rate, resolution and effect quality when the phone can't keep up or heats up, and drops frames while recording. This turns all of that off; with a steady frame rate it's always on. If recording starts to stutter, turn it off." : @"当手机性能不足或温度过高时，TikTok 会降低帧率、分辨率和特效质量，录制过程中也可能丢帧。开启此选项后将禁用这些降级行为；启用固定帧率时，此功能会自动开启。如果录制时出现卡顿，请关闭此选项。",
 
-@"法国 AME RATE" : @"帧率",
+@"FRAME RATE" : @"帧率",
 @"Data & gestures" : @"数据与手势",
 @"Export, import and quick access" : @"导出、导入与快捷访问",
 @"Shake the phone" : @"摇晃手机",
