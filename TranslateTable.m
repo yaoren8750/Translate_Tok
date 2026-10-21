@@ -3672,7 +3672,7 @@ NSDictionary *CommonTable(void)
 @"The gesture opens the menu over the current TikTok screen." : @"执行此手势即可在当前 TikTok 页面上打开菜单。",
 @"Export all settings" : @"导出所有设置",
 @"Import all settings" : @"导入所有设置",
-@"One JSON file holds all GTok settings." : @"所有 GTok 设置都会保存到同一个 JSON 文件中。"
+@"One JSON file holds all GTok settings." : @"所有 GTok 设置都会保存到同一个 JSON 文件中。",
         @"Like this comment?" : @"点赞这条评论？",
         @"Dislike this comment?" : @"点踩这条评论？",
         @"Confirm share send" : @"分享发送确认",
