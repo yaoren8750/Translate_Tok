@@ -325,6 +325,11 @@ if ([clean hasPrefix:@"On, actions:"])
             value];
 }
 
+    if ([text hasPrefix:@"Hidden: "]) {
+        NSString *count = [text substringFromIndex:8];
+        return [NSString stringWithFormat:@"已隐藏：%@", count];
+    }
+    
 // Accounts: 20
 if ([clean hasPrefix:@"Accounts:"])
 {

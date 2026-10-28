@@ -5,78 +5,78 @@ NSDictionary *CommonTable(void)
     return @{
         
         @"Actions":
-        @"操作",
+            @"操作",
 
         @"locations":
-        @"地区",
+            @"地区",
         
         @"Reset Region":
-        @"重置地区",
+            @"重置地区",
 
 
 
         @"NA9 For TikTok":
-        @"NA9设置",
+            @"NA9设置",
         
         @"ACTikTok Photo":
-        @"ACTikTok 图片",
+            @"ACTikTok 图片",
 
         @"Download Cureent Photo":
-        @"下载当前图片",
+            @"下载当前图片",
 
         @"Download All Photo":
-        @"下载所有图片",
+            @"下载所有图片",
 
         @"Save profile image":
-        @"保存头像",
+            @"保存头像",
 
         @"لا توجد خيارات مفعلة":
-        @"没有启用的选项",
+            @"没有启用的选项",
 
         @"Do you want to save this image":
-        @"要保存这张图片吗？",
+            @"要保存这张图片吗？",
 
         @"Are you sure?":
-        @"你确定吗?",
+            @"你确定吗?",
 
         @"Speeds":
-                @"速度",
+            @"速度",
 
-                @"Select Speed":
-                @"选择速度",
+        @"Select Speed":
+            @"选择速度",
 
-                @"Live Button Actions":
-                @"直播按钮操作",
+        @"Live Button Actions":
+            @"直播按钮操作",
 
-                @"Default":
-                @"默认",
+        @"Default":
+            @"默认",
 
-                @"Regions":
-                @"地区",
-                @"Unlock NA9 For TikTok" :
-                @"解锁 TikTok",
-                @"Follower:":
-                @"粉丝:",
+        @"Regions":
+            @"地区",
+        @"Unlock NA9 For TikTok" :
+            @"解锁 TikTok",
+        @"Follower:":
+            @"粉丝:",
 
-                @"Enter follower count":
-                @"输入粉丝数量",
+        @"Enter follower count":
+            @"输入粉丝数量",
 
-                @"Following:":
-                @"关注:",
+        @"Following:":
+            @"关注:",
 
-                @"Enter following count":
-                @"输入关注数量",
+        @"Enter following count":
+            @"输入关注数量",
 
-                @"Likes:":
-                @"点赞:",
+        @"Likes:":
+            @"点赞:",
 
-                @"Enter like count":
-                @"输入点赞数量",
+        @"Enter like count":
+            @"输入点赞数量",
              
                 //Infinitok
         
-                @"Infinitok settings":
-                @"Infinitok 设置",
+        @"Infinitok settings":
+            @"Infinitok 设置",
 
         
         //@"Feed":
@@ -418,18 +418,18 @@ NSDictionary *CommonTable(void)
         @"Stop Playback":
             @"停止播放",
 
-@"New Version Available : 1.76\n\nPlease update VibeTok to enjoy the latest features and fixes. If you choose to cancel, please don't post on Reddit saying \n'DeNsor is not helping me'. 🙏":
+        @"New Version Available : 1.76\n\nPlease update VibeTok to enjoy the latest features and fixes. If you choose to cancel, please don't post on Reddit saying \n'DeNsor is not helping me'. 🙏":
             @"发现新版本：1.76\n\n请更新 VibeTok 以体验最新功能和修复内容。如果你选择取消，请不要在 Reddit 上发布“DeNsor 没有帮助我”。🙏",
 
 
 
- @"Update" :
+        @"Update" :
             @"更新",
 
-@"Upload voice message as video" :
+        @"Upload voice message as video" :
             @"将语音消息上传为视频",
 
-@"Upload vid as voice in comments" :
+        @"Upload vid as voice in comments" :
             @"在评论中将视频作为语音上传",
 
         @"Show Progress Bar":
@@ -621,63 +621,63 @@ NSDictionary *CommonTable(void)
         //@"Search settings":
             //@"搜索设置",
             
-                @"settings.search.placeholder":
-                    @"搜索设置",
+        @"settings.search.placeholder":
+            @"搜索设置",
 
                // Infinitok
         
         
-                @"Downloads Menu":
-                @"下载菜单",
+        @"Downloads Menu":
+            @"下载菜单",
 
-                @"Copy Menu":
-                @"复制菜单",
-
-
-                @"Infinitok Settings":
-                @"Infinitok 设置",
-
-                @"Download All Photos":
-                @"下载全部照片",
-
-                @"Download Photos Menu":
-                @"照片下载菜单",
-
-                @"Download Photos":
-                @"下载全部照片",
+        @"Copy Menu":
+            @"复制菜单",
 
 
-                @"Download HD Video":
-                @"下载高清视频",
+        @"Infinitok Settings":
+            @"Infinitok 设置",
 
-                @"Download Music":
-                @"下载音乐",
+        @"Download All Photos":
+            @"下载全部照片",
 
-                @"Download Video":
-                @"下载视频",
+        @"Download Photos Menu":
+            @"照片下载菜单",
 
-
-                @"Could Not Copy Music.":
-                @"无法复制音乐。",
-
-                @"The video dosen't have music to download.":
-                @"该视频没有可下载的音乐。",
+        @"Download Photos":
+            @"下载全部照片",
 
 
-                @"Copy Music link":
-                @"复制音乐链接",
+        @"Download HD Video":
+            @"下载高清视频",
 
-                @"Copy Video link":
-                @"复制视频链接",
+        @"Download Music":
+            @"下载音乐",
 
-                @"Downloading":
-                @"下载中...",
+        @"Download Video":
+            @"下载视频",
 
-                @"Fetching HD link":
-                @"正在获取高清视频链接",
+
+        @"Could Not Copy Music.":
+            @"无法复制音乐。",
+
+        @"The video dosen't have music to download.":
+            @"该视频没有可下载的音乐。",
+
+
+        @"Copy Music link":
+            @"复制音乐链接",
+
+        @"Copy Video link":
+            @"复制视频链接",
+
+        @"Downloading":
+            @"下载中...",
+
+        @"Fetching HD link":
+            @"正在获取高清视频链接",
 
         @"About":
-        @"关于",
+            @"关于",
         @"ACTikTok Emoji Confirm": @"ACTikTok 表情确认",
         
         @"تأكيد إرسال الإيموجي": @"确认发送表情",
@@ -687,143 +687,143 @@ NSDictionary *CommonTable(void)
         
 
         @"Add download button to stories (photo/video)":
-        @"在故事中添加下载按钮（图片/视频）",
+            @"在故事中添加下载按钮（图片/视频）",
 
         @"Advanced":
-        @"高级",
+            @"高级",
 
         
 
         @"Always upload videos in HD quality":
-        @"始终上传高清视频",
+            @"始终上传高清视频",
 
         @"Anonymous Profile Visits":
-        @"匿名访问主页",
+            @"匿名访问主页",
 
         
 
         @"Are you sure？":
-        @"确定吗？",
+            @"确定吗？",
 
         @"Backgrounding...":
-        @"正在后台保存...",
+            @"正在后台保存...",
 
         @"Before x days / months / years":
-        @"%@ 前",
+            @"%@ 前",
 
         @"Best available quality":
-        @"最佳画质",
+            @"最佳画质",
 
         @"Bypass sensitive content warnings":
-        @"跳过敏感内容提示",
+            @"跳过敏感内容提示",
 
         @"CONFIRMATIONS":
-        @"确认",
+            @"确认",
 
         @"Cancel":
-        @"取消",
+            @"取消",
 
         @"Change default live button behavior":
-        @"修改直播按钮",
+            @"修改直播按钮",
 
         @"Choose how upload dates are shown":
-        @"选择发布日期显示方式",
+            @"选择发布日期显示方式",
 
         @"Choose what you want to save or copy.":
-        @"选择要保存或复制的内容",
+            @"选择要保存或复制的内容",
 
         @"Close":
-        @"关闭",
+            @"关闭",
 
         
 
         @"Confirm before following":
-        @"关注前确认",
+            @"关注前确认",
 
         
         @"Copy Decription":
-        @"复制文案",
+            @"复制文案",
 
         @"Copy Description":
-        @"复制文案",
+            @"复制文案",
 
         @"Copy Music Link":
-        @"复制音乐链接",
+            @"复制音乐链接",
 
         @"Copy Profile Info":
-        @"复制个人资料",
+            @"复制个人资料",
 
         @"Copy Video Link":
-        @"复制视频链接",
+            @"复制视频链接",
 
         @"Copy audio URL":
-        @"复制音频链接",
+            @"复制音频链接",
 
         @"Copy caption text":
-        @"复制标题文字",
+            @"复制标题文字",
 
         @"Copy this text to clipboard?":
-        @"复制此文本到剪贴板？",
+            @"复制此文本到剪贴板？",
 
         @"Copy video URL":
-        @"复制视频链接",
+            @"复制视频链接",
 
         @"Could not copy music link.":
-        @"无法复制音乐链接",
+            @"无法复制音乐链接",
 
         @"Could not copy video link.":
-        @"无法复制视频链接",
+            @"无法复制视频链接",
 
         @"Create a video from photos":
-        @"将照片制作成视频",
+            @"将照片制作成视频",
 
         @"Creating Slideshow...":
-        @"正在生成视频...",
+            @"正在生成视频...",
 
         @"DEVELOPER":
-        @"开发者",
+            @"开发者",
 
         @"DOWNLOADS":
-        @"下载",
+            @"下载",
 
         @"Date Format":
-        @"日期格式",
+            @"日期格式",
 
         @"Direct Download":
-        @"直接下载",
+            @"直接下载",
 
     
         @"Disable Sensitive Filter":
-        @"关闭敏感内容过滤",
+            @"关闭敏感内容过滤",
 
 
         @"Disabled":
-        @"已关闭",
+            @"已关闭",
 
         @"Dislike Comment Confirm":
-        @"取消评论点赞确认",
+            @"取消评论点赞确认",
 
         @"Dislike Confirmation":
-        @"取消点赞确认",
+            @"取消点赞确认",
 
         @"Display @username instead of display name":
-        @"显示用户名而不是昵称",
+            @"显示用户名而不是昵称",
 
         @"Display video progress bar":
-        @"显示视频进度条",
+            @"显示视频进度条",
 
         @"Does not follow you":
-        @"未关注你",
+            @"未关注你",
 
         @"Don't send read receipts when reading messages":
-        @"阅读消息时不发送已读",
+            @"阅读消息时不发送已读",
 
         @"Done":
-        @"完成",
+            @"完成",
 
         @"Language set to English": @"语言已切换为英语",
         @"Avatar loaded successfully. Ready to download":
-        @"头像加载成功，可以下载",
+            @"头像加载成功，可以下载",
 
         
         @"Select a gradient style for your stories": @"选择故事渐变效果",
@@ -847,312 +847,312 @@ NSDictionary *CommonTable(void)
         @"IDIOMA": @"语言",
 
         @"Download Complete":
-        @"下载完成",
+            @"下载完成",
 
         @"Download Complete\nSaved to Photos.":
-        @"下载完成，已保存到照片",
+            @"下载完成，已保存到照片",
 
         @"Download Complete\\nSaved to Photos.":
-        @"下载完成，已保存到照片",
+            @"下载完成，已保存到照片",
 
         @"Download Photo":
-        @"下载图片",
+            @"下载图片",
 
         @"Download Photo %d":
-        @"下载第%d张图片",
+            @"下载第%d张图片",
 
 
 
         @"Download Story":
-        @"下载故事",
+            @"下载故事",
 
 
         @"Downloading HD...":
-        @"正在下载高清视频...",
+            @"正在下载高清视频...",
 
         @"Downloading Music...":
-        @"正在下载音乐...",
+            @"正在下载音乐...",
 
         @"Downloading Photo...":
-        @"正在下载图片...",
+            @"正在下载图片...",
 
         @"Downloading Photos...":
-        @"正在下载照片...",
+            @"正在下载照片...",
 
         @"Downloading Story...":
-        @"正在下载故事...",
+            @"正在下载故事...",
 
         @"Downloading...":
-        @"正在下载",
+            @"正在下载",
 
         @"Enable Sensitive Filter":
-        @"开启敏感内容过滤",
+            @"开启敏感内容过滤",
 
         @"Enable Warnings":
-        @"开启警告",
+            @"开启警告",
 
         @"Enabled":
-        @"已启用",
+            @"已启用",
 
 
         @"Error":
-        @"错误",
+            @"错误",
 
         @"Extend bio character limit":
-        @"增加个人简介字数限制",
+            @"增加个人简介字数限制",
 
         @"Extend comment character limit":
-        @"增加评论字数限制",
+            @"增加评论字数限制",
 
         @"FEED":
-        @"首页",
+            @"首页",
 
         @"Failed":
-        @"失败",
+            @"失败",
 
-            @"Follow Status Badge":
-        @"关注状态标识",
+        @"Follow Status Badge":
+            @"关注状态标识",
 
 
         @"General":
-        @"通用",
+            @"通用",
 
         @"Hide Typing":
-        @"隐藏输入状态",
+            @"隐藏输入状态",
 
         @"Hide download button":
-        @"隐藏下载按钮",
+            @"隐藏下载按钮",
 
         @"Hide live broadcasts":
-        @"隐藏直播",
+            @"隐藏直播",
 
         @"Hide typing indicator from others":
-        @"隐藏正在输入状态",
+            @"隐藏正在输入状态",
 
 
 
         @"Keep Messages Unseen":
-        @"保持消息未读",
+            @"保持消息未读",
 
         @"Keep Story Unseen":
-        @"无痕查看故事",
+            @"无痕查看故事",
 
         @"Keep playback speed between videos":
-        @"视频间保持播放速度",
+            @"视频间保持播放速度",
 
         @"Keep stories unseen prevents the poster from knowing you viewed their story.":
-        @"保持故事未读，发布者不会知道你查看过",
+            @"保持故事未读，发布者不会知道你查看过",
 
         @"LIVE BUTTON FUNCTION":
-        @"直播按钮功能",
+            @"直播按钮功能",
 
         @"Like Comment Confirm":
-        @"点赞评论确认",
+            @"点赞评论确认",
 
         @"Loading...":
-        @"加载中...",
+            @"加载中...",
 
         @"Lock app with passcode":
-        @"使用密码锁定应用",
+            @"使用密码锁定应用",
 
         @"Long press profile photo to save":
-        @"长按头像保存",
+            @"长按头像保存",
 
         @"Long press to copy profile bio":
-        @"长按复制个人简介",
+            @"长按复制个人简介",
 
         @"Long press to save photos from comments":
-        @"长按保存评论图片",
+            @"长按保存评论图片",
 
         @"MESSAGES":
-        @"消息",
+            @"消息",
 
         @"Make comment overlay transparent":
-        @"评论透明",
+            @"评论透明",
 
         @"%lu photos available":
-        @"可保存 %lu 张图片",
+            @"可保存 %lu 张图片",
 
         @"Videos: %@":
-        @"视频数量：%@",
+            @"视频数量：%@",
 
         @"Message privacy options apply to read receipts and typing. '\n' To Save Video / PHoto inside the chat. open the Vidoe/photo and Long-press to see save option":
-        @"消息隐私设置适用于已读回执和输入状态。\n保存聊天中的视频或照片：打开视频或照片后长按即可查看保存选项",
+            @"消息隐私设置适用于已读回执和输入状态。\n保存聊天中的视频或照片：打开视频或照片后长按即可查看保存选项",
 
         @"This profile has not been marked as visited":
-        @"此人资料尚未标记为已访问",
+            @"此人资料尚未标记为已访问",
 
         @"NA9 Settings":
-        @"NA9 设置",
+            @"NA9 设置",
 
         @"No":
-        @"取消",
+            @"取消",
 
         @"No description to copy.":
-        @"没有可复制的文案",
+            @"没有可复制的文案",
 
         @"OTHER":
-        @"其他",
+            @"其他",
 
         @"Off":
-        @"关闭",
+            @"关闭",
         
        
         
         @"Ok":
-        @"确定",
+            @"确定",
 
         @"ON":
-        @"开启",
+            @"开启",
         
         @"On":
-        @"开启",
+            @"开启",
 
         @"Open links in Safari instead of in-app":
-        @"使用 Safari 打开链接",
+            @"使用 Safari 打开链接",
 
         @"Option to export photo posts as video slideshow":
-        @"将图片帖子导出为视频",
+            @"将图片帖子导出为视频",
 
         @"PHOTOS":
-        @"图片",
+            @"图片",
 
         @"Photos":
-        @"图片",
+            @"图片",
 
         @"PLAYBACK SPEED":
-        @"播放速度",
+            @"播放速度",
 
         @"PROFILE":
-        @"个人资料",
+            @"个人资料",
 
         @"Pause video at the end instead of replaying automatically":
-        @"视频结束后暂停，不自动播放",
+            @"视频结束后暂停，不自动播放",
 
         @"Persistent Speed":
-        @"保持播放速度",
+            @"保持播放速度",
 
         @"Photo slide duration controls seconds per photo in video slideshow exports.":
-        @"控制视频幻灯片中每张图片显示时间",
+            @"控制视频幻灯片中每张图片显示时间",
 
         @"Please wait...":
-        @"请稍候...",
+            @"请稍候...",
 
         @"Prevent Video Loop":
-        @"禁止视频循环播放",
+            @"禁止视频循环播放",
 
         @"Prevent accidental feed refresh when pressing the Home Tab":
-        @"防止点击首页时误刷新",
+            @"防止点击首页时误刷新",
 
         @"Profile Video Count":
-        @"主页视频数量",
+            @"主页视频数量",
 
         @"Remove TikTok warnings":
-        @"移除 TikTok 警告",
+            @"移除 TikTok 警告",
 
         @"Remove TikTok watermark from videos":
-        @"移除视频水印",
+            @"移除视频水印",
 
         
 
         @"Remove all advertisements":
-        @"移除所有广告",
+            @"移除所有广告",
 
         @"STORIES":
-        @"故事",
+            @"故事",
 
         @"Save":
-        @"保存",
+            @"保存",
 
         @"Save Comment Photos":
-        @"保存评论图片",
+            @"保存评论图片",
 
         @"Save Image":
-        @"保存图片",
+            @"保存图片",
 
         @"Save Photos as Video":
-        @"图片保存为视频",
+            @"图片保存为视频",
 
         @"Save Profile Image":
-        @"保存头像",
+            @"保存头像",
 
         @"Save Video":
-        @"保存视频",
+            @"保存视频",
 
         @"Save as Video Slideshow":
-        @"保存为图片视频",
+            @"保存为图片视频",
 
         @"Save every photo":
-        @"保存全部图片",
+            @"保存全部图片",
 
         @"Save the sound only":
-        @"仅保存音频",
+            @"仅保存音频",
 
         @"Save this image?":
-        @"保存这张图片？",
+            @"保存这张图片？",
 
         @"Save this photo":
-        @"保存图片",
+            @"保存图片",
 
         @"Saved to Photos.":
-        @"已保存到照片",
+            @"已保存到照片",
 
         @"Settings":
-        @"设置",
+            @"设置",
 
        
 
         @"Show Ads":
-        @"显示广告",
+            @"显示广告",
 
         @"Show Content Country":
-        @"显示内容地区",
+            @"显示内容地区",
 
         
         @"Show Typing":
-        @"显示输入状态",
+            @"显示输入状态",
 
         
 
         @"Show download button on videos":
-        @"视频显示下载按钮",
+            @"视频显示下载按钮",
 
         @"Show eye button to hide feed elements":
-        @"显示眼睛按钮隐藏首页元素",
+            @"显示眼睛按钮隐藏首页元素",
 
         @"Show likes on profile videos":
-        @"显示主页视频点赞数",
+            @"显示主页视频点赞数",
 
         @"Show share sheet after download":
-        @"下载后显示分享菜单",
+            @"下载后显示分享菜单",
 
         @"Show the content country/region flag":
-        @"显示内容地区标识",
+            @"显示内容地区标识",
 
         @"Show total videos as a colored badge on profiles":
-        @"主页显示视频数量徽章",
+            @"主页显示视频数量徽章",
 
         @"Show upload dates on Feed videos and profile thumbnails":
-        @"显示首页视频和主页缩略图发布日期",
+            @"显示首页视频和主页缩略图发布日期",
 
         @"Show whether the user follows you, does not follow you, or mutual follows":
-        @"显示关注状态",
+            @"显示关注状态",
 
         
 
         @"Single tap to download HD video directly":
-        @"点击直接下载高清视频",
+            @"点击直接下载高清视频",
 
         
 
         @"Slide Duration (sec):":
-        @"幻灯片时长（秒）：",
+            @"幻灯片时长（秒）：",
 
         @"Speed":
-        @"速度",
+            @"速度",
 
         @"Standard quality":
-        @"标准画质",
+            @"标准画质",
         @"Language set to English\nRestart the app to apply changes.": @"语言已切换为英语\n重启应用后生效",
         @"Language set to English Restart the app to apply changes.": @"语言已切换为英语 重启应用后生效",
         @"Cambiado a Español\nReinicia la app.": @"已切换为西班牙语\n重启应用后生效",
@@ -1165,26 +1165,26 @@ NSDictionary *CommonTable(void)
 
 
         @"All photos saved to gallery!":
-        @"所有图片已保存到相册！",
+            @"所有图片已保存到相册！",
 
         @"This will save the sticker to your photo library.":
-        @"这将把贴纸保存到你的照片图库。",
+            @"这将把贴纸保存到你的照片图库。",
 
         @"Copy the sticker to your clipboard.":
-        @"复制贴纸到剪贴板。",
+            @"复制贴纸到剪贴板。",
 
         @"Copy image":
-        @"复制图片",
+            @"复制图片",
 
         @"This will save the image to your photo library":
-        @"这将把图片保存到你的照片图库。",
+            @"这将把图片保存到你的照片图库。",
 
         @"Failed to save photo , report it to densor":
-        @"保存图片失败，请向 densor 报告此问题。",
+            @"保存图片失败，请向 densor 报告此问题。",
 
         
         @"No valid images":
-        @"没有有效图片",
+            @"没有有效图片",
 
         @"Language set to Tiếng Việt": @"语言已切换为越南语",
 
@@ -1219,40 +1219,40 @@ NSDictionary *CommonTable(void)
         
         
         @"Success":
-        @"成功",
+            @"成功",
 
         @"Transparent Comments":
-        @"透明评论",
+            @"透明评论",
 
         
 
         @"View stories without marking as seen":
-        @"查看故事不显示已读",
+            @"查看故事不显示已读",
 
         @"Visit profiles without being tracked":
-        @"访问主页不留下记录",
+            @"访问主页不留下记录",
 
         @"Yes":
-        @"确定",
+            @"确定",
 
         @"dd.jan.yyyy":
-        @"日 月 年",
+            @"日 月 年",
 
         @"dd.mm.yyyy":
-        @"年-月-日",
+            @"年-月-日",
 
         @"dd/mm":
-        @"日/月",
+            @"日/月",
 
             
-                @"(null)":
-                 @"未设置",
+        @"(null)":
+            @"未设置",
 
-                @"Saudi Arabia 🇸🇦":
-                @"沙特阿拉伯 🇸🇦",
+        @"Saudi Arabia 🇸🇦":
+            @"沙特阿拉伯 🇸🇦",
 
-                @"Taiwan 🇹🇼":
-                @"台湾 🇹🇼",
+        @"Taiwan 🇹🇼":
+            @"台湾 🇹🇼",
 
         @"Hong Kong 🇭🇰":
             @"香港 🇭🇰",
@@ -1303,7 +1303,7 @@ NSDictionary *CommonTable(void)
             @"越南 🇻🇳",
 
         @"Vietnamese":
-        @"越南语",
+            @"越南语",
         
         @"Anguilla 🇦🇮":
             @"安圭拉 🇦🇮",
@@ -1363,747 +1363,747 @@ NSDictionary *CommonTable(void)
             @"科威特 🇰🇼",
 
         @"Algeria 🇩🇿":
-        @"阿尔及利亚 🇩🇿",
+            @"阿尔及利亚 🇩🇿",
 
         @"BASIC OPTIONS":
-        @"基本选项",
+            @"基本选项",
 
         @"CUSTOMIZE YOUR PROFILE EXPERIENCE":
-        @"自定义个人资料体验",
+            @"自定义个人资料体验",
 
         @"CUSTOMIZE YOUR STORY EXPERIENCE":
-        @"自定义故事体验",
+            @"自定义故事体验",
 
         @"CUSTOMIZE YOUR CHAT EXPERIENCE":
-        @"自定义聊天体验",
+            @"自定义聊天体验",
 
         @"CUSTOMIZE YOUR VIDEO EXPERIENCE":
-        @"自定义视频体验",
+            @"自定义视频体验",
 
         @"CONTROL HOW MESSAGES BEHAVE":
-        @"控制消息行为",
+            @"控制消息行为",
 
         @"CUSTOMIZE THE LOOK AND FEEL":
-        @"自定义外观",
+            @"自定义外观",
 
 
         @"DOWNLOAD MEDIA":
-        @"下载媒体",
+            @"下载媒体",
 
         @"DOWNLOAD STORIES":
-        @"下载故事",
+            @"下载故事",
 
         
         @"DOWNLOAD VIDEOS AND PHOTOS IN FULL QUALITY":
-        @"下载高清视频和原图",
+            @"下载高清视频和原图",
         
         @"DOWNLOAD STORIES IN FULL QUALITY":
-        @"下载高清故事",
+            @"下载高清故事",
 
         @"DOWNLOAD VIDEOS/PHOTOS IN FULL QUALITY":
-        @"下载高清视频/照片",
+            @"下载高清视频/照片",
 
         @"DOWNLOAD AVATAR":
-        @"下载头像",
+            @"下载头像",
 
         @"DOWNLOAD PHOTOS IN COMMENTS":
-        @"下载评论图片",
+            @"下载评论图片",
 
         @"DOWNLOAD STICKERS IN COMMENTS":
-        @"下载评论贴纸",
+            @"下载评论贴纸",
 
 
         @"READ CHATS ANONYMOUSLY":
-        @"匿名阅读聊天",
+            @"匿名阅读聊天",
 
         @"READ CHATS WITHOUT MARKING THEM AS READ":
-        @"阅读聊天但不标记已读",
+            @"阅读聊天但不标记已读",
 
         @"LOCK CHATS":
-        @"锁定聊天",
+            @"锁定聊天",
 
         @"AUTHENTICATE TO VIEW CHATS":
-        @"验证后查看聊天",
+            @"验证后查看聊天",
 
 
         @"VIDEO TO VOICE MESSAGE":
-        @"视频转语音消息",
+            @"视频转语音消息",
 
         @"UPLOAD VIDEO AS VOICE MESSAGE":
-        @"上传视频作为语音消息",
+            @"上传视频作为语音消息",
 
         @"KEEP DELETED MESSAGES IN CHAT":
-        @"保留已删除聊天",
+            @"保留已删除聊天",
 
 
         @"ALWAYS SHOW THE VIDEO PROGRESS BAR":
-        @"始终显示视频进度条",
+            @"始终显示视频进度条",
 
         @"ALERT CONFIRMATION BEFORE LIKING VIDEOS":
-        @"点赞视频前确认",
+            @"点赞视频前确认",
 
 
         @"ENABLE LIQUID GLASS UI EFFECTS":
-        @"启用 Liquid Glass UI 效果",
+            @"启用 Liquid Glass UI 效果",
 
         @"ENABLE STORY GRADIENT":
-        @"启用故事渐变",
+            @"启用故事渐变",
 
         @"ENABLE GRADIENT STORY BORDERS":
-        @"启用渐变故事边框",
+            @"启用渐变故事边框",
 
         @"ENABLE OLED MODE":
-        @"启用 OLED 模式",
+            @"启用 OLED 模式",
 
         @"CUSTOM COLOR":
-        @"自定义颜色",
+            @"自定义颜色",
 
 
         @"STORY GRADIENT":
-        @"故事渐变",
-
-        @"STORY VIEW COUNT":
-        @"故事观看次数",
-
-        @"CHOOSE YOUR PREFERRED STORY GRADIENT STYLE":
-        @"选择喜欢的故事渐变样式",
-
-
-        @"AUTO CLEAR HISTORY":
-        @"自动清除历史",
-
-        @"CLEAR SEARCH HISTORY ON APP OPEN":
-        @"打开应用时清除搜索历史",
-
-
-        @"VOLUME BOOST (UP TO 200%)":
-        @"音量增强（最高200%）",
-
-
-        @"DOWNLOADING":
-        @"下载设置",
-
-            @"Downloads":
-            @"下载",
-
-            @"Chats":
-            @"聊天",
-
-            @"Videos":
-            @"视频",
-
-            @"Customize your profile experience":
-            @"自定义个人资料体验",
-
-            @"Download Stories":
-            @"下载故事",
-
-            @"Download Stories in Full Quality":
-            @"下载高清故事",
-
-            @"Enable gradient story borders":
-            @"启用渐变故事边框",
-
-            @"Story Gradient":
             @"故事渐变",
 
-            
-            @"Customize your story experience":
-            @"自定义故事体验",
+        @"STORY VIEW COUNT":
+            @"故事观看次数",
 
-            
-            @"Read chats without marking them as read":
-            @"阅读聊天但不标记已读",
-
-            @"Video to Voice Message":
-            @"视频转语音消息",
-
-            @"Upload video as voice message":
-            @"上传视频作为语音消息",
-
-            @"Keep deleted messages in chat":
-            @"保留聊天中的已删除消息",
-
-            @"Customize your chat experience":
-            @"自定义聊天体验",
-
-            @"Control how messages behave":
-            @"控制消息行为",
-
-            @"Undo Deleted Messages":
-            @"恢复已删除消息",
-
-            @"Undo when you delete a message from you":
-            @"删除消息后可以恢复",
-
-            @"Delete Message Confirmation":
-            @"删除消息确认",
-
-            @"Show confirmation before deleting":
-            @"删除前显示确认",
-
-            @"Download Media":
-            @"下载媒体",
-
-            @"Download videos/photos in Full Quality":
-            @"下载高清视频/照片",
-
-            @"Download Avatar":
-            @"下载头像",
-
-            @"Download by long press on username":
-            @"长按用户名下载",
-
-            @"Download Photos in Comments":
-            @"下载评论中的照片",
-
-            @"Download videos and photos in full quality":
-            @"下载高清视频和照片",
-
-            @"Always show the video progress bar":
-            @"始终显示视频进度条",
-
-            @"Alert Confirmation before liking videos":
-            @"点赞视频前确认",
-
-            @"Customize your video experience":
-            @"自定义视频体验",
-
-           
-            @"Authenticate to view chats":
-            @"验证后查看聊天",
-
-            @"Customize the look and feel":
-            @"自定义外观和界面",
-
-            @"Enable Liquid Glass UI effects":
-            @"启用 Liquid Glass 界面效果",
-
-            @"Enable Story Gradient":
-            @"启用故事渐变",
-
-            @"Choose your preferred story gradient style":
+        @"CHOOSE YOUR PREFERRED STORY GRADIENT STYLE":
             @"选择喜欢的故事渐变样式",
 
 
-            @"Clear search history on app open":
+        @"AUTO CLEAR HISTORY":
+            @"自动清除历史",
+
+        @"CLEAR SEARCH HISTORY ON APP OPEN":
             @"打开应用时清除搜索历史",
 
-            @"Enable oled mode":
-            @"启用 OLED 模式",
 
-            @"Custom color":
-            @"自定义颜色",
+        @"VOLUME BOOST (UP TO 200%)":
+            @"音量增强（最高200%）",
 
-            @"Story Settings":
-            @"故事设置",
 
-            @"Download failed":
-            @"下载失败",
+        @"DOWNLOADING":
+            @"下载设置",
 
-            @"Downloading %ld / %ld":
-            @"正在下载 %ld / %ld",
+        @"Downloads":
+            @"下载",
 
-            @"Download video":
-            @"下载视频",
+        @"Chats":
+            @"聊天",
 
-            @"Download audio":
-            @"下载音频",
-
-            @"Download image":
-            @"下载图片",
-
-            @"Download this image":
-            @"下载此图片",
-
-            @"Download all images":
-            @"下载所有图片",
-
-            @"Download error":
-            @"下载错误",
-
-            @"Video saved to Photo Library!":
-            @"视频已保存到照片",
-
-            @"Video saved to Photo Library successfully":
-            @"视频成功保存到照片",
-
-            @"Error saving video to Photo Library.":
-            @"保存视频到照片失败",
-
-            @"Failed to write the video file.":
-            @"写入视频文件失败",
-
-            @"Audio extraction failed":
-            @"音频提取失败",
-
-            @"You can upload videos under 1 min":
-            @"只能上传 1 分钟以内的视频",
-
-            @"Enable 'Download stickers' in VibeTok settings":
-            @"请在 VibeTok 设置中启用“下载贴纸”",
-
-            @"OLED":
-            @"OLED",
-
-            @"TESTING":
-            @"测试",
-
-            @"IGOledTheme Github":
-            @"IGOledTheme GitHub",
-
-            @"VibeTok - Story":
-            @"VibeTok - 故事",
-
-            @"VibeTok_Custom":
-            @"VibeTok 自定义",
-
-            @"ClearHistory":
-            @"清除历史记录",
-
-            @"Video":
+        @"Videos":
             @"视频",
 
-            @"Personaliza tus chats":
+        @"Customize your profile experience":
+            @"自定义个人资料体验",
+
+        @"Download Stories":
+            @"下载故事",
+
+        @"Download Stories in Full Quality":
+            @"下载高清故事",
+
+        @"Enable gradient story borders":
+            @"启用渐变故事边框",
+
+        @"Story Gradient":
+            @"故事渐变",
+
+            
+        @"Customize your story experience":
+            @"自定义故事体验",
+
+            
+        @"Read chats without marking them as read":
+            @"阅读聊天但不标记已读",
+
+        @"Video to Voice Message":
+            @"视频转语音消息",
+
+        @"Upload video as voice message":
+            @"上传视频作为语音消息",
+
+        @"Keep deleted messages in chat":
+            @"保留聊天中的已删除消息",
+
+        @"Customize your chat experience":
+            @"自定义聊天体验",
+
+        @"Control how messages behave":
+            @"控制消息行为",
+
+        @"Undo Deleted Messages":
+            @"恢复已删除消息",
+
+        @"Undo when you delete a message from you":
+            @"删除消息后可以恢复",
+
+        @"Delete Message Confirmation":
+            @"删除消息确认",
+
+        @"Show confirmation before deleting":
+            @"删除前显示确认",
+
+        @"Download Media":
+            @"下载媒体",
+
+        @"Download videos/photos in Full Quality":
+            @"下载高清视频/照片",
+
+        @"Download Avatar":
+            @"下载头像",
+
+        @"Download by long press on username":
+            @"长按用户名下载",
+
+        @"Download Photos in Comments":
+            @"下载评论中的照片",
+
+        @"Download videos and photos in full quality":
+            @"下载高清视频和照片",
+
+        @"Always show the video progress bar":
+            @"始终显示视频进度条",
+
+        @"Alert Confirmation before liking videos":
+            @"点赞视频前确认",
+
+        @"Customize your video experience":
+            @"自定义视频体验",
+
+           
+        @"Authenticate to view chats":
+            @"验证后查看聊天",
+
+        @"Customize the look and feel":
+            @"自定义外观和界面",
+
+        @"Enable Liquid Glass UI effects":
+            @"启用 Liquid Glass 界面效果",
+
+        @"Enable Story Gradient":
+            @"启用故事渐变",
+
+        @"Choose your preferred story gradient style":
+            @"选择喜欢的故事渐变样式",
+
+
+        @"Clear search history on app open":
+            @"打开应用时清除搜索历史",
+
+        @"Enable oled mode":
+            @"启用 OLED 模式",
+
+        @"Custom color":
+            @"自定义颜色",
+
+        @"Story Settings":
+            @"故事设置",
+
+        @"Download failed":
+            @"下载失败",
+
+        @"Downloading %ld / %ld":
+            @"正在下载 %ld / %ld",
+
+        @"Download video":
+            @"下载视频",
+
+        @"Download audio":
+            @"下载音频",
+
+        @"Download image":
+            @"下载图片",
+
+        @"Download this image":
+            @"下载此图片",
+
+        @"Download all images":
+            @"下载所有图片",
+
+        @"Download error":
+            @"下载错误",
+
+        @"Video saved to Photo Library!":
+            @"视频已保存到照片",
+
+        @"Video saved to Photo Library successfully":
+            @"视频成功保存到照片",
+
+        @"Error saving video to Photo Library.":
+            @"保存视频到照片失败",
+
+        @"Failed to write the video file.":
+            @"写入视频文件失败",
+
+        @"Audio extraction failed":
+            @"音频提取失败",
+
+        @"You can upload videos under 1 min":
+            @"只能上传 1 分钟以内的视频",
+
+        @"Enable 'Download stickers' in VibeTok settings":
+            @"请在 VibeTok 设置中启用“下载贴纸”",
+
+        @"OLED":
+            @"OLED",
+
+        @"TESTING":
+            @"测试",
+
+        @"IGOledTheme Github":
+            @"IGOledTheme GitHub",
+
+        @"VibeTok - Story":
+            @"VibeTok - 故事",
+
+        @"VibeTok_Custom":
+            @"VibeTok 自定义",
+
+        @"ClearHistory":
+            @"清除历史记录",
+
+        @"Video":
+            @"视频",
+
+        @"Personaliza tus chats":
             @"自定义聊天",
 
-            @"Controla los mensajes":
+        @"Controla los mensajes":
             @"控制消息",
 
-            @"Bloquear chats":
+        @"Bloquear chats":
             @"锁定聊天",
 
-            @"Activar modo oled":
+        @"Activar modo oled":
             @"启用 OLED 模式",
         
         
 
-            @"Help":
+        @"Help":
             @"帮助",
 
 
-            @"Check for update":
+        @"Check for update":
             @"检查更新",
 
 
-            @"You're Up to Date":
+        @"You're Up to Date":
             @"已是最新版本",
 
 
-            @"Okay":
+        @"Okay":
             @"确定",
 
 
         @"Show for This Video":
-        @"在此视频中显示",
+            @"在此视频中显示",
 
         @"Hide for This Video":
-        @"在此视频中隐藏",
+            @"在此视频中隐藏",
 
         @"Show for All Videos":
-        @"在所有视频中显示",
+            @"在所有视频中显示",
 
         @"Hide for All Videos":
-        @"在所有视频中隐藏",
+            @"在所有视频中隐藏",
 
         @"تنزيل الفيديو أو الألبوم":
-        @"下载视频或相册",
+            @"下载视频或相册",
 
         @"تنزيل الصوت":
-        @"下载音频",
+            @"下载音频",
 
         @"تنزيل صورة البروفايل":
-        @"下载头像",
+            @"下载头像",
 
         @"Copy" :
-        @"复制",
+            @"复制",
 
         @"نسخ الاسم":
-        @"复制名称",
+            @"复制名称",
 
         @"نسخ المعرّف":
-        @"复制用户名",
+            @"复制用户名",
         @"لا توجد أدوات مفعّلة": @"暂无启用功能",
         
-            @"Without watermark, Full quality":
+        @"Without watermark, Full quality":
             @"无水印，保持原画质量",
 
 
-            @"Download stickers in Comments":
+        @"Download stickers in Comments":
             @"下载评论中的贴纸",
 
 
-            @"Ghost Typing":
+        @"Ghost Typing":
             @"隐身输入",
 
 
-            @"Type without showing typing...":
+        @"Type without showing typing...":
             @"输入时隐藏「正在输入」状态",
 
 
-            @"Keep Deleted Messages":
+        @"Keep Deleted Messages":
             @"保留已删除消息",
 
 
-            @"STORY SETTINGS":
+        @"STORY SETTINGS":
             @"故事设置",
 
 
-            @"Show the number of views on stories":
+        @"Show the number of views on stories":
             @"显示故事浏览次数",
 
 
-            @"Watch Stories without marking them":
+        @"Watch Stories without marking them":
             @"查看故事时不留下浏览记录",
 
 
-            @"GRADIENT STYLES":
+        @"GRADIENT STYLES":
             @"渐变样式",
 
 
-            @"Select Gradient":
+        @"Select Gradient":
             @"选择渐变效果",
 
 
-            @"Stories":
+        @"Stories":
             @"故事",
 
 
 
-            @"View profiles without notifying the user":
+        @"View profiles without notifying the user":
             @"访问主页时不会通知对方",
 
-            @"Profile Likes & Posts":
+        @"Profile Likes & Posts":
             @"主页点赞与作品数量",
 
 
-            @"Show likes and post count on profiles":
+        @"Show likes and post count on profiles":
             @"在主页显示点赞数和作品数量",
 
 
-            @"Exact Follower Count":
+        @"Exact Follower Count":
             @"精确粉丝数量",
 
 
-            @"Show the real follower number":
+        @"Show the real follower number":
             @"显示真实粉丝数量",
 
 
-            @"Alert Confirmation Before Following":
+        @"Alert Confirmation Before Following":
             @"关注前弹出确认提示",
 
 
         @"تم نسخ الوصف بنجاح!":
-        @"描述复制成功！",
+            @"描述复制成功！",
 
         @"لا يوجد وصف لنسخه":
-        @"没有可复制的描述",
+            @"没有可复制的描述",
 
 
-            @"Display the users who visited your profile even if they blocked you":
+        @"Display the users who visited your profile even if they blocked you":
             @"即使对方屏蔽了你，也显示访问过你主页的用户",
 
 
-            @"Keep Progress Bar Visible":
+        @"Keep Progress Bar Visible":
             @"始终显示视频进度条",
 
 
-            @"Format Views":
+        @"Format Views":
             @"浏览量格式",
 
 
-            @"View count formatting":
+        @"View count formatting":
             @"设置浏览量显示格式",
 
 
-            @"Repost Date":
+        @"Repost Date":
             @"转发日期",
 
 
-            @"Show full repost date":
+        @"Show full repost date":
             @"显示完整转发时间",
 
 
-            @"Display the flag":
+        @"Display the flag":
             @"显示地区标识",
 
 
-            @"Show flag instead of name":
+        @"Show flag instead of name":
             @"用地区标识替代名称",
 
 
-            @"Display the username":
+        @"Display the username":
             @"显示用户名",
 
 
-            @"Show username instead of name":
+        @"Show username instead of name":
             @"用用户名替代昵称显示",
 
 
-            @"Privacy":
+        @"Privacy":
             @"隐私",
 
 
-            @"Appearance":
+        @"Appearance":
             @"外观",
 
 
-            @"Miscellaneous":
+        @"Miscellaneous":
             @"其他设置",
 
 
-            @"Translation":
+        @"Translation":
             @"翻译",
 
 
-            @"PRIVACY & TRANSLATION":
+        @"PRIVACY & TRANSLATION":
             @"隐私与翻译",
-            @"Privacy & Translation":
+        @"Privacy & Translation":
             @"隐私与翻译",
-            @"Support densor":
+        @"Support densor":
             @"支持 DeNsor",
-            @"تم تغيير اللغة": @"语言已切换",
+        @"تم تغيير اللغة": @"语言已切换",
         
-            @"LOCK AND PROTECT YOUR APP":
+        @"LOCK AND PROTECT YOUR APP":
             @"锁定并保护应用",
 
-            @"Authenticate":
+        @"Authenticate":
             @"验证",
         
-            @"Lock Favorites":
+        @"Lock Favorites":
             @"锁定收藏夹",
 
 
-            @"Authenticate to view favorites":
+        @"Authenticate to view favorites":
             @"验证后查看收藏内容",
 
 
-            @"Hide annoying ads":
+        @"Hide annoying ads":
             @"隐藏烦人的广告",
 
 
-            @"Unlimited Accounts":
+        @"Unlimited Accounts":
             @"无限账号",
 
 
-            @"Remove the limit on logged-in accounts":
+        @"Remove the limit on logged-in accounts":
             @"解除登录账号数量限制",
 
 
-            @"Lock and protect your app":
+        @"Lock and protect your app":
             @"锁定并保护应用",
-            @"🇪🇸 Spanish Translation":
+        @"🇪🇸 Spanish Translation":
             @"🇪🇸 西班牙语翻译",
 
-            @"🇻🇳 Vietnamese Translation":
+        @"🇻🇳 Vietnamese Translation":
             @"🇻🇳 越南语翻译",
         
-            @"العربية":
+        @"العربية":
             @"阿拉伯语",
 
 
-            @"Tiếng Việt":
+        @"Tiếng Việt":
             @"越南语",
 
 
-            @"Español":
+        @"Español":
             @"西班牙语",
         
         
-            @"Follow Status":
+        @"Follow Status":
             @"关注状态",
 
 
-            @"Green username if they follow you":
+        @"Green username if they follow you":
             @"对方关注你时用户名显示为绿色",
 
 
 
-            @"LIQUID GLASS":
+        @"LIQUID GLASS":
             @"液态玻璃",
 
 
-            @"Buttons & Menus":
+        @"Buttons & Menus":
             @"按钮与菜单",
 
 
-            @"Liquid Glass for buttons, menus, panels":
+        @"Liquid Glass for buttons, menus, panels":
             @"为按钮、菜单和面板启用 Liquid Glass 效果",
 
 
-            @"Toasts & Notices":
+        @"Toasts & Notices":
             @"提示与通知",
 
 
-            @"Liquid Glass for toasts, banners, notices":
+        @"Liquid Glass for toasts, banners, notices":
             @"为提示框、横幅和通知启用 Liquid Glass 效果",
 
 
-            @"Modals & Sheets":
+        @"Modals & Sheets":
             @"弹窗与页面",
 
 
-            @"Liquid Glass for modals , sheets, dialogs":
+        @"Liquid Glass for modals , sheets, dialogs":
             @"为弹窗、页面和对话框启用 Liquid Glass 效果",
 
 
-            @"Make your keyboard dark mode":
+        @"Make your keyboard dark mode":
             @"启用键盘深色模式",
 
 
-            @"Delete color":
+        @"Delete color":
             @"删除颜色",
 
 
-            @"Change the color of your keyboard":
+        @"Change the color of your keyboard":
             @"更改键盘颜色",
 
 
 
-            @"ABOUT":
+        @"ABOUT":
             @"关于",
 
 
-            @"IGOledTheme is a part of IGFormat project and is open source made by DeNsor , source code available on my github":
+        @"IGOledTheme is a part of IGFormat project and is open source made by DeNsor , source code available on my github":
             @"IGOledTheme 是 IGFormat 项目的一部分，由 DeNsor 开源开发，源代码可在 GitHub 查看",
 
 
 
-            @"ADDITIONAL FEATURES AND TOOLS":
+        @"ADDITIONAL FEATURES AND TOOLS":
             @"其他功能与工具",
 
 
-            @"Copy any text":
+        @"Copy any text":
             @"复制任意文本",
 
 
-            @"Long press to copy text like comments":
+        @"Long press to copy text like comments":
             @"长按即可复制评论等文本内容",
 
 
-            @"Open Links":
+        @"Open Links":
             @"打开链接",
 
 
-            @"Long-press to open links in comments":
+        @"Long-press to open links in comments":
             @"长按评论中的链接即可打开",
 
 
-            @"Fast Logout":
+        @"Fast Logout":
             @"快速退出登录",
 
 
-            @"Log out instantly without confirmation":
+        @"Log out instantly without confirmation":
             @"无需确认，立即退出账号",
 
 
-            @"Additional features and tools":
+        @"Additional features and tools":
             @"其他功能与工具",
 
 
 
-            @"LANGUAGE":
+        @"LANGUAGE":
             @"语言",
 
 
-            @"Select your preferred language":
+        @"Select your preferred language":
             @"选择你的语言",
 
 
 
-            @"CREDITS":
+        @"CREDITS":
             @"鸣谢",
 
 
-            @"English":
+        @"English":
             @"英语",
 
 
-            @"iOS version":
+        @"iOS version":
             @"iOS 版本",
 
 
-            @"Device":
+        @"Device":
             @"设备",
 
 
-            @"TikTok version":
+        @"TikTok version":
             @"TikTok 版本",
 
 
-            @"VibeTok version":
+        @"VibeTok version":
             @"VibeTok 版本",
 
 
 
-            @"Do you want to undo this message?":
+        @"Do you want to undo this message?":
             @"是否撤回此消息？",
 
 
-            @"Like":
+        @"Like":
             @"点赞",
 
 
-            @"Do you really want to Follow this Account? Please confirm.":
+        @"Do you really want to Follow this Account? Please confirm.":
             @"确定要关注此账号吗？",
 
 
-            @"Do you really want to Like this? Please confirm.":
+        @"Do you really want to Like this? Please confirm.":
             @"确定要点赞吗？",
 
 
 
-            @"Photo saved!":
+        @"Photo saved!":
             @"图片已保存！",
 
 
-            @"Processing...":
+        @"Processing...":
             @"处理中...",
 
 
-            @"Photo saved to gallery!":
+        @"Photo saved to gallery!":
             @"图片已保存到相册！",
 
 
-            @"Photo save error":
+        @"Photo save error":
             @"图片保存失败",
 
 
 
-            @"Save current image to Photos":
+        @"Save current image to Photos":
             @"保存当前图片到照片",
 
 
-            @"Save all images from this post":
+        @"Save all images from this post":
             @"保存此作品中的所有图片",
 
 
 
-            @"No photos found":
+        @"No photos found":
             @"未找到图片",
 
 
-            @"Extracting audio...":
+        @"Extracting audio...":
             @"正在提取音频...",
 
     
 
         @"Language set to %@":
-        @"语言已设置为 %@",
+            @"语言已设置为 %@",
 
 
         @"Restart the app to apply changes.":
-        @"请重启应用以应用更改。",
+            @"请重启应用以应用更改。",
 
 
         @"Language Changed":
-        @"语言已更改",
+            @"语言已更改",
         
         @"Reinicia la app.":
-        @"请重启应用。",
+            @"请重启应用。",
 
         @"Idioma cambiado":
-        @"语言已更改",
+            @"语言已更改",
         
         @"وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ": @"行至音乐处，无需言语声！",
 
@@ -2478,10 +2478,10 @@ NSDictionary *CommonTable(void)
         @"Content country": @"内容地区",
 
         @"Later":
-        @"稍后",
+            @"稍后",
 
         @"Relaunch":
-        @"重新启动",
+            @"重新启动",
         
         @"Language": @"语言",
 
@@ -2799,7 +2799,7 @@ NSDictionary *CommonTable(void)
         @"You selected: %@": @"你选择了：%@",
         @"Israel" : @"以色列",
         @"Could not save to Photos":
-        @"无法保存到相册",
+            @"无法保存到相册",
         @"Delete all blocked words?" : @"要删除所有已屏蔽关键词吗？",
         @"Delete All Words" : @"删除全部关键词",
         @"Developer links and support" : @"开发者链接与支持",
@@ -3104,10 +3104,10 @@ NSDictionary *CommonTable(void)
         @"No stories yet." : @"暂无动态",
 
         @"Open a story and it will appear here" :
-        @"打开动态后，会显示在这里",
+            @"打开动态后，会显示在这里",
 
         @"Open a story and it will appear here." :
-        @"打开动态后，会显示在这里",
+            @"打开动态后，会显示在这里",
 
         @"Nothing matches this filter.":
             @"没有符合此筛选条件的内容",
@@ -3554,125 +3554,170 @@ NSDictionary *CommonTable(void)
         @"Confirm comment like" : @"评论点赞确认",
         
         @"Confirm comment dislike" : @"评论点踩确认",
-       @"GTok settings" : @"GTok 设置",
-@"Content" : @"内容",
-@"No watermark" : @"无水印",
-@"Without watermark" : @"无水印保存",
-@"Long press → “Download” saves a clean file" : @"长按 →「下载」即可保存无水印视频",
-@"Opens “Share” with the finished video" : @"下载完成后打开视频分享菜单",
-@"Asks before saving to Photos" : @"保存到相册前先确认",
-@"Lifts the author's download ban" : @"解除作者的下载限制",
+        @"GTok settings" : @"GTok 设置",
+        @"Content" : @"内容",
+        @"No watermark" : @"无水印",
+        @"Without watermark" : @"无水印保存",
+        @"Long press → “Download” saves a clean file" : @"长按 →「下载」即可保存无水印视频",
+        @"Opens “Share” with the finished video" : @"下载完成后打开视频分享菜单",
+        @"Asks before saving to Photos" : @"保存到相册前先确认",
+        @"Lifts the author's download ban" : @"解除作者的下载限制",
 
-@"Music" : @"音乐",
-@"Ask: video or audio" : @"选择保存视频还是音频",
-@"Lets you save just the audio when downloading" : @"下载时可选择仅保存音频",
-@"Sound on disc long press" : @"长按唱片保存音乐",
-@"Hold the spinning disc to save the track" : @"长按旋转唱片即可保存歌曲",
+        @"Music" : @"音乐",
+        @"Ask: video or audio" : @"选择保存视频还是音频",
+        @"Lets you save just the audio when downloading" : @"下载时可选择仅保存音频",
+        @"Sound on disc long press" : @"长按唱片保存音乐",
+        @"Hold the spinning disc to save the track" : @"长按旋转唱片即可保存歌曲",
 
-@"Stories & profile" : @"动态与个人主页",
-@"A round button on the right of every story" : @"在每条动态右侧显示圆形按钮",
-@"Media from comments" : @"评论区媒体",
-@"Long-press an image or sticker" : @"长按图片或贴纸",
-@"Hold a voice comment to open the audio file" : @"长按语音评论即可打开音频文件",
-@"Avatar on long press" : @"长按头像",
-@"Saves the avatar in the best quality" : @"以最高画质保存头像",
-@"Photo slideshows: GTok asks whether to save all photos, only the current one, or pick them manually." : @"图片轮播：GTok 会询问你要保存全部图片、仅保存当前图片，还是手动选择。",
+        @"Stories & profile" : @"动态与个人主页",
+        @"A round button on the right of every story" : @"在每条动态右侧显示圆形按钮",
+        @"Media from comments" : @"评论区媒体",
+        @"Long-press an image or sticker" : @"长按图片或贴纸",
+        @"Hold a voice comment to open the audio file" : @"长按语音评论即可打开音频文件",
+        @"Avatar on long press" : @"长按头像",
+        @"Saves the avatar in the best quality" : @"以最高画质保存头像",
+        @"Photo slideshows: GTok asks whether to save all photos, only the current one, or pick them manually." : @"图片轮播：GTok 会询问你要保存全部图片、仅保存当前图片，还是手动选择。",
 
-@"Feed & filters" : @"信息流与筛选",
-@"No ads" : @"去除广告",
-@"Filters" : @"筛选器",
-@"Country filter" : @"国家/地区筛选",
-//@"Remove from feed" : @"从信息流中移除",
-@"Scrolling" : @"浏览",
-@"Ads inside videos" : @"视频内广告",
-@"Master switch for the country filter" : @"国家/地区筛选总开关",
-@"Country is the region TikTok sets on a video. Videos without a region are never hidden." : @"这里的国家/地区指 TikTok 为视频标记的发布地区。未标记地区的视频不会被隐藏。",
-@"MODE" : @"筛选模式",
-@"Hide selected countries" : @"隐藏选定国家/地区",
-@"Videos from these countries won't reach your feed" : @"隐藏来自这些国家/地区的视频",
-@"Show only selected" : @"仅显示选定地区",
-@"All other countries are hidden — in the feed, search and profiles" : @"信息流、搜索结果和个人主页中，仅显示所选国家/地区的内容",
-@"COUNTRIES" : @"国家/地区",
-@"Add country" : @"添加国家/地区",
-@"While the list is empty, the filter hides nothing." : @"列表为空时，不会隐藏任何内容。",
-@"Choose countries" : @"选择国家/地区",
-@"Search countries" : @"搜索国家/地区",
-@"On top: countries whose videos TikTok has sent since launch, with the video count." : @"列表顶部显示启动应用以来 TikTok 推送过视频的国家/地区，以及对应的视频数量。",
-@"SEEN THIS SESSION" : @"本次会话中出现过",
-@"ALL COUNTRIES" : @"所有国家/地区",
-@"Remove from feed" : @"从信息流中移除",
-@"Videos & stories" : @"视频与动态",
+        @"Feed & filters" : @"信息流与筛选",
+        @"No ads" : @"去除广告",
+        @"Filters" : @"筛选器",
+        @"Country filter" : @"国家/地区筛选",
+        @"Processing Share..." : @"正在处理分享…",
+        @"Live Settings" : @"直播设置",
+        @"Hidden: 6" : @"已隐藏：6",
+        @"Streaks" : @"连击",
+        @"Copyright-muted sound" : @"版权静音视频",
+        @"Videos TikTok muted over copyright play with their sound" : @"播放因版权原因被 TikTok 静音的视频时，恢复原声",
+        @"Auto-translate comments" : @"自动翻译评论",
+        @"Comments that aren't in your language show up already translated, by TikTok's own translation" : @"自动使用 TikTok 自带的翻译功能，将其他语言的评论翻译成你的语言",
+        @"Banned photos and stickers" : @"已屏蔽的图片和贴纸",
+        @"Nothing banned" : @"暂无屏蔽内容",
+        @"The “Ban” button is in the sticker window and when viewing a comment photo." : @"可在贴纸选择窗口或查看评论图片时，点击“屏蔽”按钮进行屏蔽。",
+        @"WHAT TO HIDE" : @"屏蔽方式",
+        @"Only the photo or sticker" : @"仅屏蔽图片或贴纸",
+        @"The comment stays, with a note instead of the picture" : @"保留评论，并用提示文字替代图片",
+        @"Comment together with the photo or sticker" : @"同时屏蔽评论及图片或贴纸",
+        @"The whole comment disappears from the list" : @"整条评论将从列表中隐藏",
+        @"Ban with the “Ban” button in the sticker window and with the icon when viewing a comment photo. The picture is hidden at once and on every comments load." : @"在贴纸选择窗口点击“屏蔽”按钮，或查看评论图片时点击屏蔽图标。图片会立即隐藏，并在每次加载评论时继续保持隐藏。",
+        @"BANNED" : @"已屏蔽",
+        @"Nothing is banned yet" : @"暂未屏蔽任何内容",
+        @"Open a sticker or photo from a comment and tap “Ban”." : @"打开评论中的贴纸或图片，然后点击“屏蔽”。",
+        @"Time on every message" : @"显示每条消息的时间",
+        @"Shows when each chat message was sent, right next to it" : @"在聊天消息旁显示发送时间",
+        @"Visual streak count" : @"自定义连击数",
+        @"Showing the real numbers" : @"正在显示真实连击数",
+        @"No streaks visible yet" : @"暂无连击记录",
+        @"The number, the level icon, the streak panel, the widget and streak messages in the chat change only on your screen; your friend, the server and streak upkeep keep the real one. If the visual number reaches a new level, the next time you open that chat you'll see that level's celebration once, with the offer to post a story — showing the visual number. Names and avatars come from Inbox." : @"连击数、等级图标、连击面板、小组件及聊天中的连击消息仅会在你的屏幕上显示为自定义效果。好友、服务器及实际连击进度均不受影响。如果自定义连击数达到新等级，下次打开该聊天时，将展示一次对应等级的庆祝动画，并提供发布故事的选项，展示的也是自定义连击数。名称和头像取自收件箱。",
+        @"Visual decorations" : @"资料页自定义",
+        @"Master switch for the local profile substitution" : @"开启或关闭本地资料页自定义",
+        @"Changes only what is drawn on your screen: likes, the badge, counters, name and bio in the profile header. Nothing is sent to the server and other people don't see it. Swipe an account left to remove it." : @"仅修改你自己屏幕上显示的资料页内容，包括点赞数、认证标识、计数、名称和个人简介。所有更改仅在本地生效，不会上传至服务器，其他人也看不到。向左滑动账号即可移除自定义设置。",
+        @"Nothing is changed" : @"尚未进行任何修改",
+        @"ACCOUNT" : @"账号",
+        @"The username can't be substituted: it links the entry to the profile." : @"用户名无法自定义替换，因为它用于关联对应的个人资料。",
+        @"The substitution applies only to this profile and only on your screen." : @"自定义内容仅应用于此个人资料，且只在你的屏幕上生效。",
+        @"COUNTERS" : @"数据统计",
+        @"Tap a row to set the number. The switch turns the substitution on." : @"点击对应项目即可设置数值，打开开关以启用自定义。",
+        @"VERIFIED BADGE" : @"认证标识",
+        @"Show verified badge" : @"显示认证标识",
+        @"Blue or business badge next to the name" : @"在名称旁显示蓝色认证标识或企业认证标识",
+        @"Name" : @"名称",
+        @"Bio" : @"个人简介",
+        @"MEDIA AND VIEWS" : @"媒体与播放量",
+        @"Avatar" : @"头像",
+        @"Story ring" : @"故事动态环",
+        @"Show an active story around the avatar" : @"在头像周围显示活跃的故事动态环",
+        @"Views" : @"播放量",
+        @"Avatar: a photo from the gallery or a direct link (https). The story ring is drawn regardless. Views are multiplied by the given number on every video of this account." : @"头像可从相册选择图片，也可填写图片直链（HTTPS）。无论是否有实际故事，都会显示故事动态环。该账号所有视频的播放量都会按设置的倍数显示。",
+        @"Scrolling" : @"浏览",
+        @"Ads inside videos" : @"视频内广告",
+        @"Master switch for the country filter" : @"国家/地区筛选总开关",
+        @"Country is the region TikTok sets on a video. Videos without a region are never hidden." : @"这里的国家/地区指 TikTok 为视频标记的发布地区。未标记地区的视频不会被隐藏。",
+        @"MODE" : @"筛选模式",
+        @"Hide selected countries" : @"隐藏选定国家/地区",
+        @"Videos from these countries won't reach your feed" : @"隐藏来自这些国家/地区的视频",
+        @"Show only selected" : @"仅显示选定地区",
+        @"All other countries are hidden — in the feed, search and profiles" : @"信息流、搜索结果和个人主页中，仅显示所选国家/地区的内容",
+        @"COUNTRIES" : @"国家/地区",
+        @"Add country" : @"添加国家/地区",
+        @"While the list is empty, the filter hides nothing." : @"列表为空时，不会隐藏任何内容。",
+        @"Choose countries" : @"选择国家/地区",
+        @"Search countries" : @"搜索国家/地区",
+        @"On top: countries whose videos TikTok has sent since launch, with the video count." : @"列表顶部显示启动应用以来 TikTok 推送过视频的国家/地区，以及对应的视频数量。",
+        @"SEEN THIS SESSION" : @"本次会话中出现过",
+        @"ALL COUNTRIES" : @"所有国家/地区",
+        @"Remove from feed" : @"从信息流中移除",
+        @"Videos & stories" : @"视频与动态",
 
-@"Speed, background and subtitles" : @"播放速度、后台播放与字幕",
-@"Remember speed between videos" : @"记住视频播放速度",
-@"Next videos open at the last chosen speed" : @"后续视频默认使用上次选择的播放速度",
-@"The speed picked in the long-press panel is remembered. Hold-to-speed-up is not." : @"记住长按菜单中选择的播放速度，但不记住长按加速功能。",
-@"BACKGROUND PLAYBACK" : @"后台播放",
-@"Audio only with the screen off" : @"息屏后仅播放音频",
-@"Keeps playing audio when the screen turns off" : @"屏幕关闭后继续播放声音",
-@"“Audio only” keeps playing sound with the screen off." : @"开启「仅播放音频」后，息屏也能继续播放声音。",
-@"Subtitle font size" : @"字幕字号",
-@"The size applies only to caption/subtitle components." : @"此设置仅调整文案和字幕组件的字号。",
-@"Don't loop videos" : @"视频不循环播放",
-@"The video stops at the end and doesn't restart" : @"视频播放结束后停止，不再自动循环",
-@"Video details" : @"视频信息",
-@"Adds the date to TikTok's native author line" : @"在 TikTok 原生作者信息栏中显示日期",
-@"Adds the country to the native author line, independent of the date" : @"在 TikTok 原生作者信息栏中显示国家/地区，与日期设置互不影响",
-@"Don't auto-advance stories" : @"动态不自动切换",
-@"A finished story replays instead of switching to the next one — move on only with a tap or swipe" : @"当前动态播放结束后重新播放，不自动切换到下一条；点击或滑动才会切换。",
+        @"Speed, background and subtitles" : @"播放速度、后台播放与字幕",
+        @"Remember speed between videos" : @"记住视频播放速度",
+        @"Next videos open at the last chosen speed" : @"后续视频默认使用上次选择的播放速度",
+        @"The speed picked in the long-press panel is remembered. Hold-to-speed-up is not." : @"记住长按菜单中选择的播放速度，但不记住长按加速功能。",
+        @"BACKGROUND PLAYBACK" : @"后台播放",
+        @"Audio only with the screen off" : @"息屏后仅播放音频",
+        @"Keeps playing audio when the screen turns off" : @"屏幕关闭后继续播放声音",
+        @"“Audio only” keeps playing sound with the screen off." : @"开启「仅播放音频」后，息屏也能继续播放声音。",
+        @"Subtitle font size" : @"字幕字号",
+        @"The size applies only to caption/subtitle components." : @"此设置仅调整文案和字幕组件的字号。",
+        @"Don't loop videos" : @"视频不循环播放",
+        @"The video stops at the end and doesn't restart" : @"视频播放结束后停止，不再自动循环",
+        @"Video details" : @"视频信息",
+        @"Adds the date to TikTok's native author line" : @"在 TikTok 原生作者信息栏中显示日期",
+        @"Adds the country to the native author line, independent of the date" : @"在 TikTok 原生作者信息栏中显示国家/地区，与日期设置互不影响",
+        @"Don't auto-advance stories" : @"动态不自动切换",
+        @"A finished story replays instead of switching to the next one — move on only with a tap or swipe" : @"当前动态播放结束后重新播放，不自动切换到下一条；点击或滑动才会切换。",
 
-@"Custom voice upload" : @"自定义语音上传",
-@"Hold the comment microphone to add a voice from an audio file" : @"长按评论区的麦克风按钮，即可从音频文件中添加语音",
-@"The server comment limit may differ from the client one." : @"服务器端的评论限制可能与客户端显示的限制不同。",
+        @"Custom voice upload" : @"自定义语音上传",
+        @"Hold the comment microphone to add a voice from an audio file" : @"长按评论区的麦克风按钮，即可从音频文件中添加语音",
+        @"The server comment limit may differ from the client one." : @"服务器端的评论限制可能与客户端显示的限制不同。",
 
-@"Panel" : @"面板",
-@"Writing" : @"编辑",
-@"List" : @"列表",
-@"Style" : @"样式",
-@"Protection" : @"保护",
-@"Lock" : @"锁定",
-@"Messages & streaks" : @"私信与连击",
-@"Color & theme" : @"颜色与主题",
-@"The OLED keyboard works only with the OLED theme on." : @"OLED 键盘仅在启用 OLED 主题时生效。",
-@"Dim the interface over videos" : @"视频播放时弱化界面",
-@"Buttons, nickname, caption and music become translucent; they stay tappable" : @"按钮、昵称、文案和音乐信息将变为半透明，但仍可点击",
-@"Screenshots" : @"截图",
-@"Top of the feed" : @"信息流顶部",
-@"Tab bar" : @"底部导航栏",
-@"Icons only" : @"仅显示图标",
-@"Labels under the icons are removed and the icons are centered" : @"隐藏图标下方的文字，并将图标居中显示",
-@"Tab bar height" : @"底部导航栏高度",
-@"Height changes only the part of the tab bar above the Home indicator; a low tab bar may clip the labels, so turn on “Icons only” with it." : @"仅调整底部导航栏中主屏幕指示条上方的区域。高度过低可能导致文字被裁切，建议同时开启「仅显示图标」。",
+        @"Panel" : @"面板",
+        @"Writing" : @"编辑",
+        @"List" : @"列表",
+        @"Style" : @"样式",
+        @"Protection" : @"保护",
+        @"Lock" : @"锁定",
+        @"Messages & streaks" : @"私信与连击",
+        @"Color & theme" : @"颜色与主题",
+        @"The OLED keyboard works only with the OLED theme on." : @"OLED 键盘仅在启用 OLED 主题时生效。",
+        @"Dim the interface over videos" : @"视频播放时弱化界面",
+        @"Buttons, nickname, caption and music become translucent; they stay tappable" : @"按钮、昵称、文案和音乐信息将变为半透明，但仍可点击",
+        @"Screenshots" : @"截图",
+        @"Top of the feed" : @"信息流顶部",
+        @"Tab bar" : @"底部导航栏",
+        @"Icons only" : @"仅显示图标",
+        @"Labels under the icons are removed and the icons are centered" : @"隐藏图标下方的文字，并将图标居中显示",
+        @"Tab bar height" : @"底部导航栏高度",
+        @"Height changes only the part of the tab bar above the Home indicator; a low tab bar may clip the labels, so turn on “Icons only” with it." : @"仅调整底部导航栏中主屏幕指示条上方的区域。高度过低可能导致文字被裁切，建议同时开启「仅显示图标」。",
 
-@"Region & VPN" : @"地区与 VPN",
-@"Uploads and publishing bypass the client region dispatcher. Spoofing does not change your IP address or the account region on the server; use VLESS CONNECT to change your IP." : @"上传和发布内容不会经过客户端地区分流器。伪装地区不会改变你的 IP 地址，也不会修改服务器记录的账号地区；如需更改 IP，请使用 VLESS CONNECT。",
+        @"Region & VPN" : @"地区与 VPN",
+        @"Uploads and publishing bypass the client region dispatcher. Spoofing does not change your IP address or the account region on the server; use VLESS CONNECT to change your IP." : @"上传和发布内容不会经过客户端地区分流器。伪装地区不会改变你的 IP 地址，也不会修改服务器记录的账号地区；如需更改 IP，请使用 VLESS CONNECT。",
 
-@"More" : @"更多",
-@"Camera" : @"相机",
-@"Recording settings" : @"录制设置",
-@"TikTok default" : @"TikTok 默认",
-@"Links" : @"链接",
-@"TikTok picks the frame rate itself" : @"由 TikTok 自动选择帧率",
-@"Steady 30 fps" : @"固定 30 fps",
-@"An even 30 frames per second, better in low light" : @"固定为每秒 30 帧，弱光环境下表现更好",
-@"Steady 60 fps" : @"固定 60 fps",
-@"An even 60 frames per second, like the system Camera" : @"固定为每秒 60 帧，与系统相机类似",
-@"TikTok previews at 60 fps but may drop the camera to 30 the moment you press record, and in dim light the rate slips on its own. Steady mode keeps the chosen rate for the whole recording, like the system Camera. At 60 fps a frame can't be longer than 1/60 s, so video shot in the dark comes out darker. Applies to the next recording; if the camera is already open, close and reopen it." : @"TikTok 预览时可能以 60 fps 运行，但按下录制按钮后可能立即降至 30 fps，光线较暗时还可能自动降低帧率。固定帧率模式会像系统相机一样，在整个录制过程中保持所选帧率。使用 60 fps 时，每帧曝光时间不能超过 1/60 秒，因此暗光环境下拍摄的视频可能更暗。此设置仅对下一次录制生效；如果相机已经打开，请先关闭再重新打开。",
+        @"More" : @"更多",
+        @"Camera" : @"相机",
+        @"Recording settings" : @"录制设置",
+        @"TikTok default" : @"TikTok 默认",
+        @"Links" : @"链接",
+        @"TikTok picks the frame rate itself" : @"由 TikTok 自动选择帧率",
+        @"Steady 30 fps" : @"固定 30 fps",
+        @"An even 30 frames per second, better in low light" : @"固定为每秒 30 帧，弱光环境下表现更好",
+        @"Steady 60 fps" : @"固定 60 fps",
+        @"An even 60 frames per second, like the system Camera" : @"固定为每秒 60 帧，与系统相机类似",
+        @"TikTok previews at 60 fps but may drop the camera to 30 the moment you press record, and in dim light the rate slips on its own. Steady mode keeps the chosen rate for the whole recording, like the system Camera. At 60 fps a frame can't be longer than 1/60 s, so video shot in the dark comes out darker. Applies to the next recording; if the camera is already open, close and reopen it." : @"TikTok 预览时可能以 60 fps 运行，但按下录制按钮后可能立即降至 30 fps，光线较暗时还可能自动降低帧率。固定帧率模式会像系统相机一样，在整个录制过程中保持所选帧率。使用 60 fps 时，每帧曝光时间不能超过 1/60 秒，因此暗光环境下拍摄的视频可能更暗。此设置仅对下一次录制生效；如果相机已经打开，请先关闭再重新打开。",
 
-@"STABILITY" : @"稳定性",
-@"Don't lower quality under load" : @"高负载时不降低画质",
-@"Frame rate, resolution and effects aren't cut when the phone heats up" : @"手机发热时不降低帧率、分辨率或特效质量",
-@"TikTok lowers the frame rate, resolution and effect quality when the phone can't keep up or heats up, and drops frames while recording. This turns all of that off; with a steady frame rate it's always on. If recording starts to stutter, turn it off." : @"当手机性能不足或温度过高时，TikTok 会降低帧率、分辨率和特效质量，录制过程中也可能丢帧。开启此选项后将禁用这些降级行为；启用固定帧率时，此功能会自动开启。如果录制时出现卡顿，请关闭此选项。",
+        @"STABILITY" : @"稳定性",
+        @"Don't lower quality under load" : @"高负载时不降低画质",
+        @"Frame rate, resolution and effects aren't cut when the phone heats up" : @"手机发热时不降低帧率、分辨率或特效质量",
+        @"TikTok lowers the frame rate, resolution and effect quality when the phone can't keep up or heats up, and drops frames while recording. This turns all of that off; with a steady frame rate it's always on. If recording starts to stutter, turn it off." : @"当手机性能不足或温度过高时，TikTok 会降低帧率、分辨率和特效质量，录制过程中也可能丢帧。开启此选项后将禁用这些降级行为；启用固定帧率时，此功能会自动开启。如果录制时出现卡顿，请关闭此选项。",
 
-@"FRAME RATE" : @"帧率",
-@"Data & gestures" : @"数据与手势",
-@"Export, import and quick access" : @"导出、导入与快捷访问",
-@"Shake the phone" : @"摇晃手机",
-@"Three-finger tap" : @"三指轻点",
-@"The gesture opens the menu over the current TikTok screen." : @"执行此手势即可在当前 TikTok 页面上打开菜单。",
-@"Export all settings" : @"导出所有设置",
-@"Import all settings" : @"导入所有设置",
-@"One JSON file holds all GTok settings." : @"所有 GTok 设置都会保存到同一个 JSON 文件中。",
+        @"FRAME RATE" : @"帧率",
+        @"Data & gestures" : @"数据与手势",
+        @"Export, import and quick access" : @"导出、导入与快捷访问",
+        @"Shake the phone" : @"摇晃手机",
+        @"Three-finger tap" : @"三指轻点",
+        @"The gesture opens the menu over the current TikTok screen." : @"执行此手势即可在当前 TikTok 页面上打开菜单。",
+        @"Export all settings" : @"导出所有设置",
+        @"Import all settings" : @"导入所有设置",
+        @"One JSON file holds all GTok settings." : @"所有 GTok 设置都会保存到同一个 JSON 文件中。",
         @"Like this comment?" : @"点赞这条评论？",
         @"Dislike this comment?" : @"点踩这条评论？",
         @"Confirm share send" : @"分享发送确认",
@@ -4098,39 +4143,40 @@ NSDictionary *CommonTable(void)
         @"Open Settings" : @"打开设置",
         @"Camera unavailable" : @"相机不可用",
         
-@"Off · servers: 55" : @"关闭 · 服务器：55",
-@"Subscription settings" : @"订阅设置",
-@"LINK" : @"链接",
-@"Copy the link" : @"复制链接",
-@"The link is the access key to your VPN. Do not publish it and do not pass it on." : @"此链接是你的 VPN 访问密钥。请勿公开或转发给他人。",
-@"Send the device ID" : @"发送设备 ID",
-@"Device ID in the cookie" : @"将设备 ID 写入 Cookie",
+        @"Off · servers: 55" : @"关闭 · 服务器：55",
+        @"Subscription settings" : @"订阅设置",
+        @"LINK" : @"链接",
+        @"Copy the link" : @"复制链接",
+        @"The link is the access key to your VPN. Do not publish it and do not pass it on." : @"此链接是你的 VPN 访问密钥。请勿公开或转发给他人。",
+        @"Send the device ID" : @"发送设备 ID",
+        @"Device ID in the cookie" : @"将设备 ID 写入 Cookie",
 
-@"The device ID is needed by providers that count devices per subscription: without it some subscriptions return an error. The cookie is a fallback way of passing it for panels that do not read the header." : @"对于按订阅统计设备数量的服务商，需要提供设备 ID：没有设备 ID 时，部分订阅会返回错误。对于无法读取请求头的面板，Cookie 是传递设备 ID 的备用方式。",
+        @"The device ID is needed by providers that count devices per subscription: without it some subscriptions return an error. The cookie is a fallback way of passing it for panels that do not read the header." : @"对于按订阅统计设备数量的服务商，需要提供设备 ID：没有设备 ID 时，部分订阅会返回错误。对于无法读取请求头的面板，Cookie 是传递设备 ID 的备用方式。",
 
-@"UPDATING" : @"更新中",
-@"Auto-refresh" : @"自动刷新",
-@"default" : @"默认",
-@"Refresh now" : @"立即刷新",
-@"Last updated: 2026/10/1 19:23" : @"上次更新：2026/10/1 19:23",
-@"Delete the subscription" : @"删除订阅",
-@"hourly" : @"每小时",
-@"every 3 h." : @"每 3 小时",
-@"every 6 h." : @"每 6 小时",
-@"every 12 h." : @"每 12 小时",
-@"daily" : @"每天",
-@"every 3 d." : @"每 3 天",
-@"every 7 d." : @"每 7 天",
-@"Ping every server" : @"Ping 所有服务器",
+        @"UPDATING" : @"更新中",
+        @"Auto-refresh" : @"自动刷新",
+        @"default" : @"默认",
+        @"Refresh now" : @"立即刷新",
+        @"Last updated: 2026/10/1 19:23" : @"上次更新：2026/10/1 19:23",
+        @"Delete the subscription" : @"删除订阅",
+        @"hourly" : @"每小时",
+        @"every 3 h." : @"每 3 小时",
+        @"every 6 h." : @"每 6 小时",
+        @"every 12 h." : @"每 12 小时",
+        @"daily" : @"每天",
+        @"every 3 d." : @"每 3 天",
+        @"every 7 d." : @"每 7 天",
+        @"Ping every server" : @"Ping 所有服务器",
+        @"Update Available" : @"发现新版本",
+        @"Pictures" : @"图片",
+        @"Tap a server to connect through it. Servers added by hand are removed with a swipe to the left." : @"点击服务器即可通过该服务器连接。手动添加的服务器可向左滑动移除。",
+        @"The shadowsocks protocol is not supported" : @"不支持 Shadowsocks 协议",
 
-@"Tap a server to connect through it. Servers added by hand are removed with a swipe to the left." : @"点击服务器即可通过该服务器连接。手动添加的服务器可向左滑动移除。",
-@"The shadowsocks protocol is not supported" : @"不支持 Shadowsocks 协议",
+        @"Refresh subscriptions" : @"刷新订阅",
+        @"servers: 55 · updated 2026/10/1 19:33 · daily" : @"服务器：55 · 更新于 2026/10/1 19:33 · 每天",
 
-@"Refresh subscriptions" : @"刷新订阅",
-@"servers: 55 · updated 2026/10/1 19:33 · daily" : @"服务器：55 · 更新于 2026/10/1 19:33 · 每天",
-
-@"until 2027年5月4日" : @"有效期至 2027年5月4日",
-@"Unsupported protocol" : @"不支持的协议",
+        @"until 2027年5月4日" : @"有效期至 2027年5月4日",
+        @"Unsupported protocol" : @"不支持的协议",
         @"SERVERS" : @"服务器",
         @"This subscription's servers will disappear from the list. If one of them is on right now, the VPN will disconnect." : @"此订阅的服务器将从列表中移除。如果当前连接的是其中一个服务器，VPN 将断开连接。",
         @"Loading the server list…" : @"正在加载服务器列表…",
@@ -4201,19 +4247,19 @@ NSDictionary *CommonTable(void)
         @"Start the app with video volume muted" : @"启动应用时默认静音",
 
         @"Show Mute Button" : @"显示静音按钮",
-@"Show floating speaker icon to mute and unmute video audio with one tap" : @"显示悬浮音量图标，轻点即可切换视频静音",
-@"Direct HD Download" : @"直接下载高清视频",
-@"Skip options menu and start HD download directly with progress banner" : @"跳过选项菜单，直接下载高清视频，并显示下载进度",
-@"Persistent Auto-Scroll" : @"自动刷下一个视频",
-@"Auto-scroll to the next video when finished, persisting across app restarts" : @"当前视频播放结束后自动滑到下一个视频，重启 TikTok 后仍会生效",
-@"Glass Tab Bar" : @"毛玻璃底部导航栏",
-@"Transform bottom tab bar into luxury frosted translucent glass" : @"将底部导航栏变成高级半透明毛玻璃效果",
-@"Profile Background (Banner)" : @"个人主页背景图",
-@"Enable profile background / banner feature and edit it from Edit Profile" : @"开启个人主页背景图功能，并可在「编辑个人资料」中修改",
-@"Account Info Card" : @"账号信息卡片",
-@"Show button in profile to view account details and creation date" : @"在个人主页显示按钮，查看账号详情和注册时间",
-@"Reset Profile Background" : @"重置个人主页背景",
-@"Remove current background banner and restore default profile appearance" : @"移除当前背景图，恢复个人主页默认样式",
+        @"Show floating speaker icon to mute and unmute video audio with one tap" : @"显示悬浮音量图标，轻点即可切换视频静音",
+        @"Direct HD Download" : @"直接下载高清视频",
+        @"Skip options menu and start HD download directly with progress banner" : @"跳过选项菜单，直接下载高清视频，并显示下载进度",
+        @"Persistent Auto-Scroll" : @"自动刷下一个视频",
+        @"Auto-scroll to the next video when finished, persisting across app restarts" : @"当前视频播放结束后自动滑到下一个视频，重启 TikTok 后仍会生效",
+        @"Glass Tab Bar" : @"毛玻璃底部导航栏",
+        @"Transform bottom tab bar into luxury frosted translucent glass" : @"将底部导航栏变成高级半透明毛玻璃效果",
+        @"Profile Background (Banner)" : @"个人主页背景图",
+        @"Enable profile background / banner feature and edit it from Edit Profile" : @"开启个人主页背景图功能，并可在「编辑个人资料」中修改",
+        @"Account Info Card" : @"账号信息卡片",
+        @"Show button in profile to view account details and creation date" : @"在个人主页显示按钮，查看账号详情和注册时间",
+        @"Reset Profile Background" : @"重置个人主页背景",
+        @"Remove current background banner and restore default profile appearance" : @"移除当前背景图，恢复个人主页默认样式",
         @"Add blue verified badge to your name" : @"在用户名旁添加蓝色认证标记",
         @"Private Profile Visits" : @"隐身访问个人资料",
         @"View profiles without notifying user" : @"查看个人资料时不通知对方",
@@ -4319,7 +4365,7 @@ NSDictionary *CommonTable(void)
         @"Glowing Neon Accent":
             @"发光霓虹强调色",
 
-@"Filled White Circle":
+        @"Filled White Circle":
             @"实心白色圆圈",
         
         
