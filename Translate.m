@@ -330,6 +330,24 @@ if ([clean hasPrefix:@"On, actions:"])
         return [NSString stringWithFormat:@"已隐藏：%@", count];
     }
     
+    
+    if ([text hasPrefix:@"A new version is available ("]) {
+        NSRange startRange = [text rangeOfString:@"("];
+        NSRange endRange = [text rangeOfString:@")."];
+
+        if (startRange.location != NSNotFound &&
+            endRange.location != NSNotFound &&
+            endRange.location > startRange.location) {
+
+            NSString *version = [text substringWithRange:
+                NSMakeRange(startRange.location + 1,
+                            endRange.location - startRange.location - 1)];
+
+            return [NSString stringWithFormat:
+                @"有新版本可用（%@）.\n是否前往下载页面？", version];
+        }
+    }
+    
 // Accounts: 20
 if ([clean hasPrefix:@"Accounts:"])
 {

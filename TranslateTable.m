@@ -4311,7 +4311,8 @@ NSDictionary *CommonTable(void)
         @"Confirm Delete" : @"确认删除",
         @"Are you sure you want to delete the cache?" : @"确定要清除缓存吗？",
         @"Cache cleared successfully ✅" : @"缓存已成功清除 ✅",
-
+        @"Would vou like to update now?" : @"是否立即更新？",
+        @"• Hide message" : @"• 隐藏此消息",
         @"• Full compatibility with TikTok's new profile page design." : @"• 完全兼容 TikTok 全新的个人资料页设计。",
 
         @"What's New in This Update?" : @"本次更新内容",
